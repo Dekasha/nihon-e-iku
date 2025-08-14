@@ -1,0 +1,159 @@
+わかります <br> 分かります ; Mengerti
+
+あります ; Ada / mempunyai
+
+すき（な） <br> 好きな ; Suka, gemar
+
+きらい（な） <br> 嫌いな ; Benci
+
+じょうず（な） <br> 上手な ; Pandai, pintar
+
+へた（な） <br> 下手な ; Tidak pandai, tidak pintar, bodoh
+
+のみもの <br> 飲み物 ; Minuman
+
+りょうり <br> 料理 ; Masakan
+
+スポーツ ; Olahraga
+
+やきゅう <br> 野球 ; Baseball
+
+ダンス ; Dansa
+
+りょこう <br> 旅行 ; Tamasya
+
+おんがく <br> 音楽 ; Musik
+
+うた <br> 歌 ; Lagu
+
+クラシック ; Klasik
+
+ジャズ ; Jaz
+
+コンサート ; Konser
+
+カラオケ ; Karaoke
+
+かぶき <br> 歌舞伎 ; Kabuki (drama tradisional Jepang)
+
+え <br> 絵 ; Gambar
+
+じ <br> 字 ; Huruf
+
+かんじ <br> 漢字 ; Kanji
+
+ひらがな ; Hiragana
+
+かたかな ; Katakana
+
+ローマじ ; Huruf latin
+
+こまかいおかね <br> 細かいお金 ; Uang kecil, receh
+
+チケット ; Tiket
+
+じかん <br> 時間 ; Waktu
+
+ようじ <br> 用事 ; Urusan
+
+やくそく <br> 約束 ; Janji
+
+アルバイト ; Kerja paruh waktu
+
+ごしゅじん <br> ご主人 ; Suami orang lain
+
+おっと／しゅじん <br> 夫／主人 ; Suami
+
+おくさん <br> 奥さん ; Istri orang lain
+
+つま／かない <br> 妻／家内 ; Istri
+
+こども <br> 子供 ; Anak
+
+よく ; Dengan baik
+
+だいたい ; Kira-kira
+
+たくさん ; Banyak
+
+すこし <br> 少し ; Sedikit
+
+ぜんぜん <br> 全然 ; Sama sekali
+
+はやく <br> 早く／速く ; Dengan cepat
+
+～から ; Karena
+
+どうして ; Kenapa
+
+かしてください <br> 貸してください ; Tolong pinjamkan
+
+いいですよ ; Boleh
+
+ざんねんです <br> 残念です ; Sayang sekali
+
+いっしょにいかがですか ; Bagaimana kalau bersama-sama
+
+～ちょっと。。。。 ; Maaf, saya tidak bisa
+
+だめですか ; Tidak bisa ya / tidak boleh ya
+
+またこんどおねがいします <br> また今度お願いします ; Maaf lain kali saja
+
+ポップス ; Pop
+
+ロック ; Rock
+
+ラテン ; Musik latin
+
+みんよう <br> 民謡 ; Musik rakyat / nyanyian daerah
+
+えんか <br> 演歌 ; Lagu tradisional Jepang populer
+
+ミュージカル ; Drama musikal
+
+オペラ ; Opera
+
+ホラー ; Film horor
+
+アニメ ; Film kartun, animasi
+
+ドキュメンタリー ; Film dokumentasi
+
+れんあい <br> 恋愛 ; Film percintaan
+
+ミステリー ; Film misteri
+
+ぶんげい <br> 文芸 ; Film kesusastraan
+
+せんそう <br> 戦争 ; Film peperangan
+
+アクション ; Film action
+
+きげき <br> 喜劇 ; Film komedi
+
+ソフトボール ; Softball
+
+サッカー ; Sepak bola
+
+ラグビー ; Rugby
+
+バレーボール ; Voli
+
+テニス ; Tenis
+
+ボウリング ; Bowling
+
+スキー ; Ski
+
+スケート ; Skate
+
+たっきゅう／ピンポン <br> 卓球 ; Pingpong
+
+すもう <br> 相撲 ; Sumo
+
+じゅうどう <br> 柔道 ; Judo
+
+けんどう <br> 剣道 ; Kendo
+
+すいえい <br> 水泳 ; Renang

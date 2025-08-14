@@ -1,0 +1,134 @@
+ここ ; Disini
+
+そこ ; Disitu
+
+あそこ ; Disana
+
+どこ ; Dimana?
+
+こちら ; Disini
+
+そちら ; Disitu
+
+あちら ; Disana
+
+どちら ; Dimana?
+
+きょうしつ <br> 教室 ; Ruang kelas
+
+しょくどう <br> 食堂 ; Ruang makan, Kantin
+
+じむしょ <br> 事務所 ; Kantor
+
+かいぎしつ <br> 会議室 ; Ruang rapat
+
+うけつけ <br> 受付 ; Meja informasi
+
+ロビー ; Ruang tunggu, lobi
+
+へや <br> 部屋 ; Kamar
+
+おてあらい <br> お手洗い ; Kamar kecil, WC
+
+トイレ ; Toilet
+
+かいだん <br> 階段 ; Tangga
+
+エレベーター ; Lift
+
+エスカレーター ; Eskalator, tangga berjalan
+
+じどうはんばいき <br> 自動販売機 ; Mesin jual otomatis
+
+でんわ <br> 電話 ; Telepon
+
+おくに <br> お国 ; Negara
+
+かいしゃ <br> 会社 ; Perusahaan
+
+うち <br> 家 ; Rumah
+
+くつ <br> 靴 ; Sepatu
+
+ネクタイ ; Dasi
+
+ワイン ; Anggur putih
+
+うりば <br> 売り場 ; Tempat penjualan
+
+ちか <br> 地下 ; Bawah tanah, basement
+
+～かい <br> ～階 ; lantai～/ tingkat～
+
+なんがい <br> 何階 ; Lantai berapa?
+
+～えん <br> ～円 ; ～yen
+
+いくら ; Berapa?
+
+ひゃく <br> 百 ; Seratus
+
+せん <br> 千 ; Seribu
+
+まん <br> 万 ; Puluh ribu
+
+すみません ; Maaf
+
+どうも ; Terima kasih
+
+いらっしゃいませ ; Selamat datang
+
+みせてください <br> 見せてください ; Tolong perlihatkan
+
+じゃ ; Kalau begitu
+
+～をください ; Tolong ～
+
+イタリア ; Italia
+
+スイス ; Swis
+
+フランス ; Perancis
+
+ジャカルタ ; Jakarta
+
+バンコク ; Bangkok
+
+ベルリン ; Berlin
+
+おくじょう <br> 屋上 ; Lantai atas
+
+レストラン ; Restoran
+
+ゆうえんち <br> 遊園地 ; Tempat hiburan
+
+もよおしものかいじょう <br> 催し物会場 ; Tempat pertunjukan
+
+めがね <br> 眼鏡 ; Kacamata
+
+スポーツようひん <br> スポーツ用品 ; Peralatan olahraga
+
+りょこうようひん <br> 旅行用品 ; Peralatan wisata
+
+こどものふく <br> 子供の服 ; Pakaian anak
+
+おもちゃ ; Mainan
+
+ぶんぼうぐ <br> 文房具 ; Alat tulis
+
+かぐ <br> 家具 ; Perlengkapan rumah
+
+しょっき <br> 食器 ; Peralatan makan
+
+でんかせいひん <br> 電化製品 ; Barang elektronik
+
+しんしふく <br> 紳士服 ; Pakaian pria
+
+ふじんふく <br> 婦人服 ; Pakaian wanita
+
+アクセサリー ; Perhiasan, aksesoris
+
+けしょうひん <br> 化粧品 ; Kosmetik
+
+しょくひん <br> 食品 ; Makanan
+

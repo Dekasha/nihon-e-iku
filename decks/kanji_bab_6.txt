@@ -1,0 +1,103 @@
+食べます ; たべます <br> Makan
+
+飲みます ; のみます <br> Minum
+
+吸います ; すいます <br> Menghisap / merokok
+
+見ます ; みます <br> Melihat / menonton
+
+聞きます ; ききます <br> Mendengar
+
+読みます ; よみます <br> Membaca
+
+書きます ; かきます <br> Menulis / menggambar
+
+買います ; かいます <br> Membeli
+
+撮ります ; とります <br> Mengambil (foto) / memotret
+
+会います ; あいます <br> Bertemu
+
+ご飯 ; ごはん <br> Nasi
+
+朝ご飯 ; あさごはん <br> Makan pagi / sarapan
+
+昼ご飯 ; ひるごはん <br> Makan siang
+
+晩ご飯 ; ばんごはん <br> Makan malam
+
+卵 ; たまご <br> Telur
+
+肉 ; にく <br> Daging
+
+魚 ; さかな <br> Ikan
+
+野菜 ; やさい <br> Sayuran
+
+果物 ; くだもの <br> Buah-buahan
+
+水 ; みず <br> Air
+
+お茶 ; おちゃ <br> Teh jepang / teh hijau
+
+紅茶 ; こうちゃ <br> Teh
+
+牛乳 ; ぎゅうにゅう <br> Susu
+
+お酒 ; おさけ <br> Minuman keras
+
+手紙 ; てがみ <br> Surat
+
+写真 ; しゃしん <br> Foto
+
+店 ; みせ <br> Toko
+
+庭 ; にわ <br> Halaman
+
+宿題 ; しゅくだい <br> Pekerjaan rumah / PR
+
+花見 ; はなみ <br> Hanami (menikmati bunga sakura)
+
+何 ; なに <br> Apa
+
+時々 ; ときどき <br> Kadang-kadang
+
+分かりました ; わかりました <br> Mengerti / baik
+
+大根 ; だいこん <br> Lobak
+
+梨 ; なし <br> Pir
+
+柿 ; かき <br> Kesemek
+
+牛肉 ; ぎゅうにく <br> Daging sapi
+
+鶏肉 ; とりにく <br> Daging ayam
+
+豚肉 ; ぶたにく <br> Daging babi
+
+鯵 ; あじ <br> Ikan mackerel
+
+鰯 ; いわし <br> Ikan sarden
+
+鯖 ; さば <br> Ikan kembung
+
+秋刀魚 ; さんま <br> Ikan sauri pasifik
+
+鮭 ; さけ <br> Ikan salmon
+
+鮪 ; まぐろ <br> Ikan tuna
+
+鯛 ; たい <br> Ikan kakap
+
+鱈 ; たら <br> Ikan gabus
+
+海老 ; えび <br> Udang
+
+蟹 ; かに <br> Kepiting
+
+烏賊 ; いか <br> Cumi-cumi
+
+蛸 ; たこ <br> Gurita
+
+米 ; こめ <br> Beras

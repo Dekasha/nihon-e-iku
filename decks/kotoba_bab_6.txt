@@ -1,0 +1,179 @@
+たべます <br> 食べます ; Makan
+
+のみます <br> 飲みます ; Minum
+
+すいます <br> 吸います ; Menghisap / merokok
+
+みます <br> 見ます ; Melihat / menonton
+
+ききます <br> 聞きます ; Mendengar
+
+よみます <br> 読みます ; Membaca
+
+かきます <br> 書きます ; Menulis / menggambar
+
+かいます <br> 買います ; Membeli
+
+とります <br> 撮ります ; Mengambil (foto) / memotret
+
+します ; Melakukan / mengerjakan / berbuat
+
+あいます <br> 会います ; Bertemu
+
+ごはん <br> ご飯 ; Nasi
+
+あさごはん <br> 朝ご飯 ; Makan pagi / sarapan
+
+ひるごはん <br> 昼ご飯 ; Makan siang
+
+ばんごはん <br> 晩ご飯 ; Makan malam
+
+パン ; Roti
+
+たまご <br> 卵 ; Telur
+
+にく <br> 肉 ; Daging
+
+さかな <br> 魚 ; Ikan
+
+やさい <br> 野菜 ; Sayuran
+
+くだもの <br> 果物 ; Buah-buahan
+
+みず <br> 水 ; Air
+
+おちゃ <br> お茶 ; Teh jepang / teh hijau
+
+こうちゃ <br> 紅茶 ; Teh
+
+ぎゅうにゅう <br> 牛乳 ; Susu
+
+ジュース ; Jus
+
+ビール ; Bir
+
+おさけ <br> お酒 ; Minuman keras
+
+たばこ ; Rokok
+
+てがみ <br> 手紙 ; Surat
+
+レポート ; Laporan
+
+しゃしん <br> 写真 ; Foto
+
+ビデオ ; Kaset video
+
+みせ <br> 店 ; Toko
+
+にわ <br> 庭 ; Halaman
+
+しゅくだい <br> 宿題 ; Pekerjaan rumah / PR
+
+テニス ; Tenis
+
+サッカー ; Sepak bola
+
+はなみ <br> 花見 ; Hanami (menikmati bunga sakura)
+
+なに <br> 何 ; Apa
+
+いっしょに ; Bersama-sama
+
+ちょっと ; Sebentar / sedikit
+
+いつも ; Selalu
+
+ときどき <br> 時々 ; Kadang-kadang
+
+それから ; Setelah itu / kemudian
+
+ええ ; Ya
+
+いいですね ; Bagus ya / baik ya
+
+わかりました <br> 分かりました ; Mengerti / baik
+
+じゃ、また ; OK, sampai jumpa besok
+
+メキシコ ; Meksiko
+
+きゅうり ; Timun
+
+トマト ; Tomat
+
+なす ; Terong
+
+まめ ; Kacang-kacangan
+
+キャベツ ; Kol
+
+ねぎ ; Daun bawang
+
+はくさい ; Sawi
+
+ほうれんそう ; Bayam
+
+レタス ; Letas
+
+じゃがいも ; Kentang
+
+だいこん <br> 大根 ; Lobak
+
+たまねぎ ; Bawang
+
+にんじん ; Wortel
+
+いちご ; Stroberi
+
+もも ; Buah peach
+
+すいか <br> スイカ ; Semangka
+
+ぶどう ; Anggur
+
+なし <br> 梨 ; Pir
+
+かき <br> 柿 ; Kesemek
+
+みかん ; Jeruk
+
+りんご ; Apel
+
+バナナ ; Pisang
+
+ぎゅうにく <br> 牛肉 ; Daging sapi
+
+とりにく <br> 鶏肉 ; Daging ayam
+
+ぶたにく <br> 豚肉 ; Daging babi
+
+ソーセージ ; Sosis
+
+ハム ; Ham
+
+あじ <br> 鯵 ; Ikan mackerel
+
+いわし <br> 鰯 ; Ikan sarden
+
+さば <br> 鯖 ; Ikan kembung
+
+さんま <br> 秋刀魚 ; Ikan sauri pasifik
+
+さけ <br> 鮭 ; Ikan salmon
+
+まぐろ <br> 鮪 ; Ikan tuna
+
+たい <br> 鯛 ; Ikan kakap
+
+たら <br> 鱈 ; Ikan gabus
+
+えび <br> 海老 ; Udang
+
+かに <br> 蟹 ; Kepiting
+
+いか <br> 烏賊 ; Cumi-cumi
+
+たこ <br> 蛸 ; Gurita
+
+こめ <br> 米 ; Beras

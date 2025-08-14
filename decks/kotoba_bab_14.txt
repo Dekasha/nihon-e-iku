@@ -1,0 +1,141 @@
+つけます ; Menyalakan, memasang, menghidupkan
+
+けします <br> 消します ; Mematikan, memadamkan
+
+あけます <br> 開けます ; Membuka
+
+しめます <br> 閉めます ; Menutup
+
+いそぎます <br> 急ぎます ; Buru-buru
+
+まちます <br> 待ちます ; Menunggu
+
+もちます <br> 持ちます ; Membawa
+
+とります <br> 取ります ; Mengambil
+
+てつだいます <br> 手伝います ; Membantu
+
+よびます <br> びます ; Memanggil
+
+はなします <br> 話します ; Berbicara
+
+つかいます <br> 使います ; Memakai
+
+とめます <br> 止めます ; Menghentikan
+
+みせます <br> 見せます ; Memperlihatkan
+
+おしえます <br> 教えます ; Memberitahu
+
+すわります <br> 座ります ; Duduk
+
+たちます <br> 立ちます ; Berdiri
+
+はいります <br> 入ります ; Masuk
+
+でます <br> 出ます ; Keluar
+
+ふります <br> 降ります ; Turun hujan
+
+コピーします ; Memfotocopy
+
+でんき <br> 電気 ; Listrik, lampu
+
+エアコン ; AC
+
+パスポート ; Paspor
+
+なまえ <br> 名前 ; Nama
+
+じゅうしょ <br> 住所 ; Alamat
+
+ちず <br> 地図 ; Peta
+
+しお <br> 塩 ; Garam
+
+さとう <br> 砂糖 ; Gula
+
+もんだい <br> 問題 ; Masalah, soal
+
+こたえ <br> 答え ; Jawaban
+
+よみかた <br> 読み方 ; Cara membaca
+
+～かた <br> ～方 ; Cara~
+
+まっすぐ ; Lurus
+
+ゆっくり ; Pelan-pelan, istirahat dengan baik
+
+すぐ ; Segera, langsung
+
+また ; Lagi
+
+あとで ; Nanti
+
+もうすこし <br> もう少し ; Sedikit lagi
+
+もう～ ; ~lagi
+
+さあ ; Mari
+
+あれ？ ; Ah (saat heran atau kaget)
+
+これでおねがいします <br> これでお願いします ; Minta dengan ini
+
+おつり <br> お釣り ; Kembalian
+
+きっぷうりば <br> 切符売り場 ; Loket penjualan karcis
+
+じどうけんばいき <br> 自動券売機 ; Mesin karcis otomatis
+
+せいさんき <br> 精算機 ; Alat penghitung otomatis
+
+かいさつぐち <br> 改札口 ; Pintu pemeriksaan karcis
+
+でぐち <br> 出口 ; Pintu keluar
+
+いりぐち <br> 入口 ; Pintu masuk
+
+ひがしぐち <br> 東口 ; Pintu timur
+
+にしぐち <br> 西口 ; Pintu barat
+
+みなみぐち <br> 南口 ; Pintu selatan
+
+きたぐち <br> 北口 ; Pintu utara
+
+ちゅうおうぐち <br> 中央口 ; Pintu tengah
+
+プラットホーム ; Peron
+
+ばいてん <br> 売店 ; Kios, kedai
+
+コインロッカー ; Loker
+
+タクシーのりば ; Tempat naik taksi
+
+バスターミナル ; Terminal bis
+
+バスてい <br> バス停 ; Halte bis
+
+かいそく <br> 快速 ; Kereta cepat yang lewat pinggir kota
+
+じゅんきゅう <br> 準急 ; Kereta semi cepat
+
+じこくひょう <br> 時刻表 ; Jadwal keberangkatan bis, kereta dll
+
+～はつ <br> ～発 ; Berangkat dari / berangkat pukul
+
+～ちゃく <br> ～着 ; Berangkat ke / tiba pukul
+
+とうきょういき <br> 東京行き ; Tujuan Tokyo
+
+ていきけん <br> 定期券 ; Kartu langganan berjangka
+
+かいすうけん <br> 回数券 ; Karcis kupon
+
+かたみち <br> 片道 ; Sekali jalan
+
+おうふく <br> 往復 ; Pulang pergi

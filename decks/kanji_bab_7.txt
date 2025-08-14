@@ -1,0 +1,69 @@
+切ります ; きります <br> Memotong / menggunting
+
+送ります ; おくります <br> Mengirim
+
+貸します ; かします <br> Meminjamkan / menyewakan
+
+借ります ; かります <br> Meminjam / menyewa
+
+教えます ; おしえます <br> Mengajar
+
+習います ; ならいます <br> Belajar (kepada)
+
+手 ; て <br> Tangan
+
+年賀状 ; ねんがじょう <br> Kartu tahun baru
+
+消しゴム ; けしゴム <br> Penghapus karet
+
+紙 ; かみ <br> Kertas
+
+花 ; はな <br> Bunga
+
+荷物 ; にもつ <br> Barang
+
+お金 ; おかね <br> Uang
+
+切符 ; きっぷ <br> Karcis
+
+父 ; ちち <br> Ayah
+
+母 ; はは <br> Ibu
+
+お父さん ; おとうさん <br> Ayah orang lain
+
+お母さん ; おかあさん <br> Ibu orang lain
+
+失礼します ; しつれいします <br> Permisi
+
+家族 ; かぞく <br> Keluarga
+
+祖母 ; そぼ <br> Nenek
+
+祖父 ; そふ <br> Kakek
+
+祖父母 ; そふぼ <br> Kakek nenek
+
+両親 ; りょうしん <br> Orang tua
+
+妹 ; いもうと <br> Adik perempuan
+
+弟 ; おとうと <br> Adik laki-laki
+
+姉 ; あね <br> Kakak perempuan
+
+兄 ; あに <br> Kakak laki-laki
+
+兄弟 ; きょうだい <br> Saudara kandung
+
+妻 ; つま <br> Istri
+
+夫 ; おっと <br> Suami
+
+夫婦 ; ふうふ <br> Pasangan suami istri
+
+娘 ; むすめ <br> Anak perempuan
+
+息子 ; むすこ <br> Anak laki-laki
+
+子供 ; こども <br> Anak

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="id" class="h-full">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flashcards – Deck Files Loader (Anki‑style)</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'ui-sans-serif', 'system-ui'] },
+          boxShadow: { soft: '0 18px 40px -20px rgba(0,0,0,0.35)' }
+        }
+      }
+    }
+  </script>
+  <style>
+    .glass {
+      backdrop-filter: blur(8px) saturate(160%);
+      background: linear-gradient(180deg, rgba(255, 255, 255, .7), rgba(255, 255, 255, .55));
+    }
+
+    .dark .glass {
+      background: linear-gradient(180deg, rgba(17, 24, 39, .7), rgba(17, 24, 39, .55));
+    }
+
+    * {
+      scrollbar-width: thin;
+      scrollbar-color: #cbd5e1 transparent;
+    }
+
+    *::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+
+    *::-webkit-scrollbar-thumb {
+      background: #cbd5e1;
+      border-radius: 9999px;
+    }
+  </style>
+  <!--
+    Cara pakai (OPS1 – TANPA backend):
+    1) Buat folder `decks/` di samping file ini (index.html).
+    2) Isi dengan file teks: kanji_bab_1.txt sampai kanji_bab_25.txt dan kotoba_bab_1.txt sampai kotoba_bab_25.txt
+       Format tiap baris: FRONT ; BACK
+       Contoh:
+         私 ; わたし <br> Saya
+         あの人 ; あのひと <br> Orang itu (biasa)
+         わたし <br> 私 ; Saya
+    3) Buka index.html melalui server lokal (supaya fetch() bisa membaca file). Contoh cepat:
+         - VS Code: pakai Live Server
+         - atau `python -m http.server` lalu akses http://localhost:8000
+    4) Pilih deck dari dropdown, kartu akan diacak. Bisa review berkali-kali.
+  -->
+</head>
+
+<body
+  class="h-full bg-gradient-to-br from-slate-50 to-stone-100 text-slate-900 dark:from-slate-900 dark:to-gray-900 dark:text-slate-100">
+  <div class="min-h-screen grid grid-rows-[auto,1fr]">
+    <!-- Header -->
+    <header class="sticky top-0 z-30 glass shadow-soft">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <div class="h-9 w-9 rounded-2xl bg-slate-900 dark:bg-white flex items-center justify-center shadow-soft">
+            <span class="text-white dark:text-slate-900 font-bold">FC</span>
+          </div>
+          <div>
+            <h1 class="text-lg font-semibold tracking-tight">Anki‑style Flashcards (File Loader)</h1>
+            <p class="text-xs text-slate-500 dark:text-slate-400">Elegan, modern, fokus belajar.</p>
+          </div>
+        </div>
+        <div class="flex items-center gap-2">
+          <button id="themeToggle"
+            class="p-2 rounded-xl border border-slate-300 dark:border-slate-600 hover:bg-slate-100 dark:hover:bg-slate-800"
+            title="Toggle theme" aria-label="Toggle theme">
+            <svg id="sun" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-5 w-5">
+              <path fill="currentColor"
+                d="M6.76 4.84l-1.8-1.79L3.17 4.84l1.79 1.79 1.8-1.79zm10.48 14.32l1.79 1.79 1.79-1.79-1.79-1.79-1.79 1.79zM12 4V1h-0v3h0zm0 19v-3h0v3h0zM4 12H1v0h3v0zm19 0h-3v0h3v0zM6.76 19.16l-1.8 1.79-1.79-1.79 1.79-1.79 1.8 1.79zM19.24 4.84l1.79-1.79 1.79 1.79-1.79 1.79-1.79-1.79zM12 8a4 4 0 100 8 4 4 0 000-8z" />
+            </svg>
+            <svg id="moon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-5 w-5 hidden">
+              <path fill="currentColor" d="M21 12.79A9 9 0 1111.21 3a7 7 0 109.79 9.79z" />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-6 grid gap-6">
+      <!-- Controls Card -->
+      <!-- Controls Card -->
+      <section
+        class="rounded-2xl border border-slate-200 dark:border-slate-800 shadow-soft overflow-hidden bg-white/60 dark:bg-slate-900/40">
+        <div class="px-4 py-4 flex flex-col md:flex-row md:items-center gap-4 md:gap-6">
+          <div class="flex-1 grid grid-cols-1 md:grid-cols-3 gap-4 items-center">
+            <div class="space-y-1">
+              <label class="text-sm text-slate-500">Pilih Deck</label>
+              <select id="deckSelect"
+                class="w-full px-3 py-2 rounded-xl border border-slate-300 dark:border-slate-600 bg-white/80 dark:bg-slate-800/60 text-sm"></select>
+            </div>
+            <div class="space-y-1">
+              <label class="text-sm text-slate-500">Mode</label>
+              <div class="flex flex-wrap items-center gap-3">
+                <label class="inline-flex items-center gap-2 text-sm">
+                  <input id="loopToggle" type="checkbox" class="rounded"> Loop
+                </label>
+                <label class="inline-flex items-center gap-2 text-sm">
+                  <input id="autoShuffleToggle" type="checkbox" class="rounded" checked> Shuffle
+                </label>
+              </div>
+            </div>
+            <div class="space-y-1">
+              <label class="text-sm text-slate-500">Kontrol</label>
+              <div class="flex flex-wrap gap-2">
+                <button id="restartBtn"
+                  class="flex-1 px-3 py-2 rounded-xl bg-slate-900 text-white dark:bg-white dark:text-slate-900 hover:opacity-90 text-sm">Mulai
+                  Ulang</button>
+                <button id="downloadBtn"
+                  class="flex-1 px-3 py-2 rounded-xl border border-slate-300 dark:border-slate-600 hover:bg-slate-100 dark:hover:bg-slate-800 text-sm">Unduh</button>
+              </div>
+            </div>
+          </div>
+          <div class="md:ml-auto text-sm text-slate-600 dark:text-slate-300 flex items-center gap-3">
+            <span id="deckLabel" class="font-medium">—</span>
+            <span class="px-2 py-1 rounded-full border border-slate-300 dark:border-slate-600" id="progress">0 /
+              0</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Flashcard Area -->
+      <section class="rounded-2xl border border-slate-200 dark:border-slate-800 shadow-soft overflow-hidden">
+        <div class="p-4 sm:p-6 bg-white/70 dark:bg-slate-900/40">
+          <div id="cardArea"
+            class="min-h-[200px] sm:min-h-[260px] cursor-pointer select-none bg-gradient-to-br from-white to-slate-50 dark:from-slate-800 dark:to-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl shadow-soft p-6 sm:p-8 flex items-center justify-center text-center">
+            <div id="front" class="text-2xl sm:text-3xl font-semibold leading-relaxed"></div>
+            <div id="back" class="hidden text-xl sm:text-2xl leading-relaxed"></div>
+          </div>
+          <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-3">
+            <button id="prevBtn"
+              class="px-3 py-2 rounded-xl border border-slate-300 dark:border-slate-600 hover:bg-slate-100 dark:hover:bg-slate-800 text-sm sm:text-base">←
+              Sebelumnya</button>
+            <button id="flipBtn"
+              class="px-3 py-2 rounded-xl bg-indigo-600 text-white hover:opacity-95 text-sm sm:text-base">Flip /
+              Jawaban</button>
+            <button id="nextBtn"
+              class="px-3 py-2 rounded-xl border border-slate-300 dark:border-slate-600 hover:bg-slate-100 dark:hover:bg-slate-800 text-sm sm:text-base">Berikutnya
+              →</button>
+          </div>
+          <p class="mt-3 text-xs text-slate-500 leading-relaxed">Shortcut: <kbd class="px-1 rounded border">Space</kbd>
+            flip, <kbd class="px-1 rounded border">→</kbd>/<kbd class="px-1 rounded border">←</kbd> navigasi, <kbd
+              class="px-1 rounded border">R</kbd> mulai ulang.</p>
+        </div>
+      </section>
+
+      <!-- Table preview -->
+      <section
+        class="rounded-2xl border border-slate-200 dark:border-slate-800 shadow-soft overflow-hidden bg-white/50 dark:bg-slate-900/30">
+        <div class="px-4 py-3 flex items-center justify-between">
+          <h2 class="font-medium text-sm sm:text-base">Pratinjau Deck Aktif</h2>
+          <div class="text-xs sm:text-sm text-slate-500"><span id="countLabel">0</span> kartu</div>
+        </div>
+        <div class="p-3 sm:p-4 overflow-auto">
+          <table class="w-full text-xs sm:text-sm">
+            <thead>
+              <tr class="text-left text-slate-500">
+                <th class="py-2 pr-2 w-[40%]">Front</th>
+                <th class="py-2 pr-2">Back</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    // ---------- Config: daftar file deck (OPS1)
+    const DECK_FILES = [
+      ...Array.from({ length: 25 }, (_, i) => `kanji_bab_${i + 1}.txt`),
+      ...Array.from({ length: 25 }, (_, i) => `kotoba_bab_${i + 1}.txt`),
+    ];
+
+    const $ = (s, root = document) => root.querySelector(s);
+    const $$ = (s, root = document) => Array.from(root.querySelectorAll(s));
+
+    // ---------- Theme toggle
+    function applyTheme(pref) {
+      const dark = pref === 'dark' || (pref === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+      document.documentElement.classList.toggle('dark', dark);
+      $('#sun').classList.toggle('hidden', dark);
+      $('#moon').classList.toggle('hidden', !dark);
+    }
+    let themePref = localStorage.getItem('fc_theme') || 'auto';
+    applyTheme(themePref);
+    $('#themeToggle').addEventListener('click', () => {
+      themePref = document.documentElement.classList.contains('dark') ? 'light' : 'dark';
+      localStorage.setItem('fc_theme', themePref); applyTheme(themePref);
+    });
+
+    // ---------- State
+    let cards = [];           // {front, back}
+    let order = [];           // indices (shuffled)
+    let idx = 0;              // pointer in order
+    let showingBack = false;
+    let currentDeck = null;   // filename
+
+    // ---------- UI init
+    function initDeckSelect() {
+      const sel = $('#deckSelect');
+      sel.innerHTML = '';
+      const grp1 = document.createElement('optgroup'); grp1.label = 'Kanji';
+      const grp2 = document.createElement('optgroup'); grp2.label = 'Kotoba';
+      for (const f of DECK_FILES) {
+        const opt = document.createElement('option');
+        opt.value = f; opt.textContent = f.replace('.txt', '');
+        if (f.startsWith('kanji_')) grp1.appendChild(opt); else grp2.appendChild(opt);
+      }
+      sel.append(grp1, grp2);
+      const last = localStorage.getItem('fc_last_deck');
+      if (last && DECK_FILES.includes(last)) sel.value = last;
+      else sel.selectedIndex = 0;
+    }
+
+    async function loadDeck(filename) {
+      currentDeck = filename; localStorage.setItem('fc_last_deck', filename);
+      $('#deckLabel').textContent = filename.replace('.txt', '');
+      try {
+        const res = await fetch(`decks/${filename}`);
+        if (!res.ok) throw new Error(`Tidak bisa membuka ${filename}`);
+        const txt = await res.text();
+        cards = parseDeckText(txt);
+        if ($('#autoShuffleToggle').checked) shuffle(); else resetOrder();
+        idx = 0; showingBack = false; renderCard(); renderTable(); updateProgress();
+      } catch (err) {
+        alert(err.message);
+        cards = []; order = []; idx = 0; showingBack = false; renderCard(); renderTable(); updateProgress();
+      }
+    }
+
+    function parseDeckText(txt) {
+      // Mempertahankan <br> saja; escape HTML lain.
+      const BR_PLACEHOLDER = '[[BR]]';
+      const lines = txt.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
+      const result = [];
+      for (const line of lines) {
+        const safeLine = line.replace(/<br\s*\/?>/gi, BR_PLACEHOLDER);
+        const [left, ...rest] = safeLine.split(';');
+        const right = rest.join(';');
+        const frontRaw = (left || '').trim();
+        const backRaw = (right || '').trim();
+        if (!frontRaw) continue;
+        const front = escapeHTML(frontRaw).replaceAll(BR_PLACEHOLDER, '<br>');
+        const back = escapeHTML(backRaw).replaceAll(BR_PLACEHOLDER, '<br>');
+        result.push({ front, back });
+      }
+      return result;
+    }
+
+    function escapeHTML(str) {
+      return str.replace(/[&<>"']/g, s => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[s]));
+    }
+
+    function resetOrder() { order = cards.map((_, i) => i); }
+    function shuffle() { resetOrder(); for (let i = order.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1));[order[i], order[j]] = [order[j], order[i]]; } }
+
+    function current() { return cards[order[idx]]; }
+
+    function renderCard() {
+      const f = $('#front'); const b = $('#back');
+      if (!cards.length) { f.innerHTML = '<span class="text-slate-500">Deck kosong / gagal dimuat.</span>'; b.classList.add('hidden'); return; }
+      f.innerHTML = current().front; b.innerHTML = current().back || '<span class="text-slate-500">(tidak ada back)</span>';
+      f.classList.toggle('hidden', showingBack);
+      b.classList.toggle('hidden', !showingBack);
+    }
+
+    function updateProgress() { $('#progress').textContent = `${cards.length ? (idx + 1) : 0} / ${cards.length}`; $('#countLabel').textContent = cards.length; }
+
+    function next() {
+      if (!cards.length) return; if (idx < order.length - 1) { idx++; } else { if ($('#loopToggle').checked) { idx = 0; if ($('#autoShuffleToggle').checked) shuffle(); } }
+      showingBack = false; renderCard(); updateProgress();
+    }
+
+    function prev() {
+      if (!cards.length) return; if (idx > 0) { idx--; } else if ($('#loopToggle').checked) { idx = order.length - 1; }
+      showingBack = false; renderCard(); updateProgress();
+    }
+
+    function flip() { if (!cards.length) return; showingBack = !showingBack; renderCard(); }
+
+    function renderTable() {
+      const tb = $('#tableBody'); tb.innerHTML = '';
+      for (const c of cards) {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td class="py-2 pr-2 align-top"><div class="prose prose-slate dark:prose-invert max-w-none">${c.front}</div></td>
+                        <td class="py-2 pr-2 align-top"><div class="prose prose-slate dark:prose-invert max-w-none">${c.back}</div></td>`;
+        tb.appendChild(tr);
+      }
+    }
+
+    // ---------- Events
+    $('#deckSelect').addEventListener('change', e => loadDeck(e.target.value));
+    $('#restartBtn').addEventListener('click', () => { if ($('#autoShuffleToggle').checked) shuffle(); else resetOrder(); idx = 0; showingBack = false; renderCard(); updateProgress(); });
+    $('#downloadBtn').addEventListener('click', () => {
+      if (!currentDeck) { alert('Pilih deck dulu'); return; }
+      // trigger download file asli
+      const a = document.createElement('a'); a.href = `decks/${currentDeck}`; a.download = currentDeck; a.click();
+    });
+    $('#prevBtn').addEventListener('click', prev);
+    $('#nextBtn').addEventListener('click', next);
+    $('#flipBtn').addEventListener('click', flip);
+    $('#cardArea').addEventListener('click', flip);
+
+    document.addEventListener('keydown', (e) => {
+      if (e.code === 'Space') { e.preventDefault(); flip(); }
+      if (e.key === 'ArrowRight') { next(); }
+      if (e.key === 'ArrowLeft') { prev(); }
+      if (e.key === 'r' || e.key === 'R') { $('#restartBtn').click(); }
+    });
+
+    // ---------- Boot
+    initDeckSelect();
+    // autoload first
+    loadDeck($('#deckSelect').value);
+  </script>
+</body>
+
+</html>

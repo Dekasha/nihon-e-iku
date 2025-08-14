@@ -1,0 +1,149 @@
+いきます <br> 行きます ; Pergi
+
+きます <br> 来ます ; Datang
+
+かえります <br> 帰ります ; Pulang
+
+がっこう <br> 学校 ; Sekolahan
+
+スーパー ; Supermarket
+
+えき <br> 駅 ; Stasiun
+
+ひこうき <br> 飛行機 ; Pesawat terbang
+
+ふね <br> 船 ; Kapal laut
+
+でんしゃ <br> 電車 ; Kereta listrik
+
+ちかてつ <br> 地下鉄 ; Kereta bawah tanah
+
+しんかんせん <br> 新幹線 ; Shinkansen
+
+バス ; Bus
+
+タクシー ; Taksi
+
+じてんしゃ <br> 自転車 ; Sepeda
+
+あるいて <br> 歩いて ; Jalan kaki
+
+ひと <br> 人 ; Orang
+
+ともだち <br> 友達 ; Teman
+
+かれ <br> 彼 ; Dia (laki-laki)
+
+かのじょ <br> 彼女 ; Dia (perempuan)
+
+かぞく <br> 家族 ; Keluarga
+
+ひとりで <br> 一人で ; Sendirian
+
+せんしゅう <br> 先週 ; Minggu lalu
+
+こんしゅう <br> 今週 ; Minggu ini
+
+らいしゅう <br> 来週 ; Minggu depan
+
+せんげつ <br> 先月 ; Bulan lalu
+
+こんげつ <br> 今月 ; Bulan ini
+
+らいげつ <br> 来月 ; Bulan depan
+
+きょねん <br> 去年 ; Tahun lalu
+
+ことし <br> 今年 ; Tahun ini
+
+らいねん <br> 来年 ; Tahun depan
+
+～ねん <br> ～年 ; Tahun
+
+なんねん <br> 何年 ; Tahun berapa?
+
+～がつ <br> ～月 ; Bulan
+
+なんがつ <br> 何月 ; Bulan apa?
+
+ついたち <br> 一日 ; Tanggal 1
+
+ふつか <br> 二日 ; Tanggal 2, 2 hari
+
+みっか <br> 三日 ; Tanggal 3, 3 hari
+
+よっか <br> 四日 ; Tanggal 4, 4 hari
+
+いつか <br> 五日 ; Tanggal 5, 5 hari
+
+むいか <br> 六日 ; Tanggal 6, 6 hari
+
+なのか <br> 七日 ; Tanggal 7, 7 hari
+
+ようか <br> 八日 ; Tanggal 8, 8 hari
+
+ここのか <br> 九日 ; Tanggal 9, 9 hari
+
+とおか <br> 十日 ; Tanggal 10, 10 hari
+
+じゅうよっか <br> 十四日 ; Tanggal 14, 14 hari
+
+はつか <br> 二十日 ; Tanggal 20, 20 hari
+
+にじゅうよっか <br> 二十四日 ; Tanggal 24, 24 hari
+
+～にち <br> ～日 ; Tanggal, hari
+
+なんいち <br> 何日 ; Tanggal berapa, berapa hari
+
+いつ ; Kapan
+
+たんじょうび <br> 誕生日 ; Hari ulang tahun
+
+そうですね ; Ya begitulah
+
+どういたしまして ; Sama-sama
+
+～ばんせん <br> ～番線 ; Peron nomor, jalur nomor
+
+つぎの <br> 次の ; Yang berikutnya
+
+ふつう <br> 普通 ; Biasa
+
+きゅうこう <br> 急行 ; Ekspres
+
+とっきゅう <br> 特急 ; Super ekspres
+
+しゅくさいじつ <br> 祝祭日 ; Hari libur nasional
+
+がんじつ <br> 元日 ; Tahun baru
+
+せいじんのひ <br> 成人の日 ; Hari perayaan menjadi dewasa
+
+けんこくきねんのひ <br> 建国記念の日 ; Hari pembangunan nasional
+
+しゅんぶんのひ <br> 春分の日 ; Hari equinox pada musim semi
+
+しょうわのひ <br> 昭和の日 ; Hari Showa
+
+けんぽうきねんび <br> 憲法記念日 ; Hari peringatan konstitusi
+
+みどりのひ ; Hari penghijauan
+
+こどものひ ; Hari anak
+
+うみのひ <br> 海の日 ; Hari bahari
+
+やまのひ <br> 山の日 ; Hari gunung
+
+けいろうのひ <br> 敬老の日 ; Hari hormat kepada orang tua
+
+しゅうぶんのひ <br> 秋分の日 ; Hari equinox pada musim gugur
+
+たいいくのひ <br> 体育の日 ; Hari kesehatan olahraga
+
+ぶんかのひ <br> 文化の日 ; Hari kebudayaan
+
+きんろうかんしゃのひ <br> 勤労感謝の日 ; Hari bersyukur untuk pekerjaan
+
+てんのうたんじょうび <br> 天皇誕生日 ; Hari ulang tahun kaisar

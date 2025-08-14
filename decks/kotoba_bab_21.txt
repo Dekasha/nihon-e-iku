@@ -1,0 +1,121 @@
+おもいます <br> 思います ; Mengira, berfikir
+
+いいます <br> 言います ; Berkata, mengatakan
+
+かちます <br> 勝ちます ; Menang
+
+まけます <br> 負けます ; Kalah
+
+やくにたちます <br> 役に立ちます ; Bermanfaat, berguna
+
+うごきます <br> 動きます ; Pindah, bergerak
+
+やめます （を） ; Berhenti
+
+きをつけます <br> 気を付けます ; Berhati-hati, berwaspada
+
+りゅうがくします <br> 留学します ; Studi di luar negeri
+
+むだな ; Sia-sia, tidak berguna
+
+ふべんな <br> 不便な ; Tidak praktis
+
+すごい ; Hebat
+
+ほんとう <br> 本当 ; Betul, benar
+
+うそ ; Bohong
+
+じどうしゃ <br> 自動車 ; Mobil
+
+こうつう <br> 交通 ; Lalu lintas
+
+ぶっか <br> 物価 ; Harga barang
+
+ニュース ; Siaran, pengumuman
+
+アニメ ; Animasi
+
+マンガ ; Komik
+
+デザイン ; Desain, model
+
+ゆめ <br> 夢 ; Mimpi
+
+てんさい <br> 天才 ; Genius
+
+しあい <br> 試合 ; Pertandingan
+
+いけん <br> 意見 ; Pendapat
+
+はなし <br> 話 ; Cerita
+
+ちきゅう <br> 地球 ; Bumi
+
+つき <br> 月 ; Bulan
+
+さいきん <br> 最近 ; Akhir-akhir ini
+
+たぶん ; Mungkin, barangkali
+
+きっと ; Pasti
+
+ほんとうに <br> 本当に ; Betul-betul
+
+そんなに ; Tidak begitu (diikuti kata negatif)
+
+～について ; Tentang ~
+
+ひさしぶりですね <br> 久しぶりですね ; Sudah lama tidak bertemu ya
+
+もちろん ; Tentu saja
+
+やくしょくめい <br> 役職名 ; Nama-nama jabatan
+
+とどうふけん <br> 都道府県 ; Prefektur
+
+し <br> 市 ; Kota
+
+まち <br> 町 ; Distrik, daerah
+
+むら <br> 村 ; Desa
+
+しゅしょう <br> 首相 ; Perdana menteri
+
+（ないかくそうりだいじん） <br> （内閣総理大臣） ; (Perdana menteri)
+
+ちじ <br> 知事 ; Gubernur
+
+しちょう <br> 市長 ; Wali kota
+
+ちょうちょう <br> 町長 ; Kepala daerah
+
+そんちょう <br> 村長 ; Kepala desa
+
+がくちょう <br> 学長 ; Rektor
+
+こうちょう <br> 校長 ; Kepala sekolah
+
+えんちょう <br> 園長 ; Kepala TK
+
+かいちょう <br> 会長 ; Ketua
+
+じゅうやく <br> 重役 ; Direktur
+
+ぶちょう <br> 部長 ; Kepala bagian
+
+かちょう <br> 課長 ; Kepala seksi
+
+とうどり <br> 頭取 ; Direktur bank
+
+してんちょう <br> 支店長 ; Kepala kantor cabang
+
+えきちょう <br> 駅長 ; Kepala stasiun
+
+いんちょう <br> 院長 ; Direktur rumah sakit
+
+かんごしちょう <br> 看護師長 ; Kepala perawat
+
+けいさつ <br> 警察 ; Kantor polisi
+
+しょちょう <br> 署長 ; Kepala kantor polisi

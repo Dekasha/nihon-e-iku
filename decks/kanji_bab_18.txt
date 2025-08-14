@@ -1,0 +1,69 @@
+洗います ; あらいます <br> Mencuci
+
+弾きます ; ひきます <br> Bermain (alat musik, piano)
+
+歌います ; うたいます <br> Menyanyi
+
+集めます ; あつめます <br> Mengumpulkan
+
+捨てます ; すてます <br> Membuang
+
+換えます ; かえます <br> Menukar, mengganti
+
+運転します ; うんてんします <br> Menyetir, mengendarai
+
+予約します ; よやくします <br> Memesan
+
+現金 ; げんきん <br> Uang tunai
+
+趣味 ; しゅみ <br> Hobi, kegemaran
+
+日記 ; にっき <br> Catatan harian
+
+お祈り ; おいのり <br> Doa
+
+課長 ; かちょう <br> Kepala seksi
+
+部長 ; ぶちょう <br> Kepala bagian
+
+社長 ; しゃちょう <br> Direktur utama
+
+動物 ; どうぶつ <br> Hewan
+
+馬 ; うま <br> Kuda
+
+特に ; とくに <br> Terutama, khususnya
+
+本当ですか ; ほんとうですか <br> Betulkah, benarkah
+
+飛ぶ ; とぶ <br> Terbang
+
+跳ぶ ; とぶ <br> Meloncat
+
+登る ; のぼる <br> Memanjat
+
+走る ; はしる <br> Berlari
+
+泳ぐ ; およぐ <br> Berenang
+
+飛び込む ; とびこむ <br> Terjun
+
+逆立ちする ; さかだちする <br> Berjungkir balik
+
+振る ; ふる <br> Melambaikan
+
+持ち上げる ; もちあげる <br> Mengangkat
+
+投げる ; なげる <br> Melempar
+
+引く ; ひく <br> Menarik
+
+押す ; おす <br> Menekan, mendorong
+
+曲げる ; まげる <br> Membengkokkan
+
+伸ばす ; のばす <br> Meluruskan
+
+転ぶ ; ころぶ <br> Jatuh
+
+振り向く ; ふりむく <br> Menengok ke belakang

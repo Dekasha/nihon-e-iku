@@ -1,0 +1,95 @@
+思います ; おもいます <br> Mengira, berfikir
+
+言います ; いいます <br> Berkata, mengatakan
+
+勝ちます ; かちます <br> Menang
+
+負けます ; まけます <br> Kalah
+
+役に立ちます ; やくにたちます <br> Bermanfaat, berguna
+
+動きます ; うごきます <br> Pindah, bergerak
+
+気を付けます ; きをつけます <br> Berhati-hati, berwaspada
+
+留学します ; りゅうがくします <br> Studi di luar negeri
+
+不便な ; ふべんな <br> Tidak praktis
+
+本当 ; ほんとう <br> Betul, benar
+
+自動車 ; じどうしゃ <br> Mobil
+
+交通 ; こうつう <br> Lalu lintas
+
+物価 ; ぶっか <br> Harga barang
+
+夢 ; ゆめ <br> Mimpi
+
+天才 ; てんさい <br> Genius
+
+試合 ; しあい <br> Pertandingan
+
+意見 ; いけん <br> Pendapat
+
+話 ; はなし <br> Cerita
+
+地球 ; ちきゅう <br> Bumi
+
+月 ; つき <br> Bulan
+
+最近 ; さいきん <br> Akhir-akhir ini
+
+本当に ; ほんとうに <br> Betul-betul
+
+久しぶりですね ; ひさしぶりですね <br> Sudah lama tidak bertemu ya
+
+役職名 ; やくしょくめい <br> Nama-nama jabatan
+
+都道府県 ; とどうふけん <br> Prefektur
+
+市 ; し <br> Kota
+
+町 ; まち <br> Distrik, daerah
+
+村 ; むら <br> Desa
+
+首相 ; しゅしょう <br> Perdana menteri
+
+（内閣総理大臣） ; （ないかくそうりだいじん） <br> (Perdana menteri)
+
+知事 ; ちじ <br> Gubernur
+
+市長 ; しちょう <br> Wali kota
+
+町長 ; ちょうちょう <br> Kepala daerah
+
+村長 ; そんちょう <br> Kepala desa
+
+学長 ; がくちょう <br> Rektor
+
+校長 ; こうちょう <br> Kepala sekolah
+
+園長 ; えんちょう <br> Kepala TK
+
+会長 ; かいちょう <br> Ketua
+
+重役 ; じゅうやく <br> Direktur
+
+部長 ; ぶちょう <br> Kepala bagian
+
+課長 ; かちょう <br> Kepala seksi
+
+頭取 ; とうどり <br> Direktur bank
+
+支店長 ; してんちょう <br> Kepala kantor cabang
+
+駅長 ; えきちょう <br> Kepala stasiun
+
+院長 ; いんちょう <br> Direktur rumah sakit
+
+看護師長 ; かんごしちょう <br> Kepala perawat
+
+警察 ; けいさつ <br> Kantor polisi
+
+署長 ; しょちょう <br> Kepala kantor polisi

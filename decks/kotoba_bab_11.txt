@@ -1,0 +1,161 @@
+います ; Ada / mempunyai
+
+かかります ; Memerlukan waktu
+
+やすみます （を） <br> 休みます ; Tidak masuk kerja / libur
+
+ひとつ ; 1 buah
+
+ふたつ ; 2 buah
+
+みっつ ; 3 buah
+
+よっつ ; 4 buah
+
+いつつ ; 5 buah
+
+むっつ ; 6 buah
+
+ななつ ; 7 buah
+
+やっつ ; 8 buah
+
+ここのつ ; 9 buah
+
+とお ; 10 buah
+
+いくつ ; Berapa buah?
+
+ひとり ; 1 orang
+
+ふたり ; 2 orang
+
+～にん <br> ～人 ; ~ orang
+
+～だい <br> ～台 ; ~ unit
+
+～まい <br> ～枚 ; ~ lembar
+
+～かい <br> ～回 ; ~ kali
+
+りんご ; Apel
+
+みかん ; Jeruk
+
+サンドイッチ ; Sandwich
+
+カレー ; Kare
+
+アイスクリーム ; Es krim
+
+きって <br> 切手 ; Perangko
+
+はがき ; Kartu pos
+
+ふうとう <br> 封筒 ; Amplop
+
+がいこく <br> 外国 ; Luar negeri
+
+りゅうがくせい <br> 留学生 ; Pelajar asing
+
+クラス ; Kelas
+
+～じかん <br> ～時間 ; ~ jam
+
+～しゅうかん <br> ～週間 ; ~ minggu
+
+～かげつ <br> ～か月 ; ~ bulan
+
+～ねん <br> ～年 ; ~ tahun
+
+～ぐらい ; Kira-kira ~
+
+どのくらい ; Berapa lama?
+
+ぜんぶで <br> 全部で ; Semuanya
+
+みんな ; Semua
+
+～だけ ; Hanya ~
+
+かしこまりました ; Baik / mengerti
+
+いいてんきですね <br> いい天気ですね ; Cuacanya bagus ya...
+
+おでかけですか <br> お出かけですか ; Mau keluar?
+
+いってらっしゃい <br> 行ってらっしゃい ; Hati-hati (berangkatnya)
+
+いってきます <br> 行ってきます ; Saya berangkat
+
+ふなびん <br> 船便 ; Pos laut
+
+こうくうびん <br> 航空便 ; Pos udara
+
+エアメール ; Pos udara
+
+オーストラリア ; Australia
+
+ていしょく <br> 定食 ; Makanan paket
+
+ランチ ; Makan siang
+
+てんどん <br> 天どん ; Semangkuk nasi dan tempura
+
+おやこどん ; Semangkuk nasi, daging ayam dan telur
+
+ぎゅうどん <br> 牛どん ; Semangkuk nasi dan daging sapi
+
+やきにく <br> 焼肉 ; Daging panggang
+
+やさいため <br> 野菜ため ; Sayur goreng
+
+つけもの <br> 漬物 ; Asinan
+
+みそしる <br> みそ汁 ; Sup miso
+
+おにぎり ; Nasi kepal
+
+てんぷら ; Tempura
+
+すし ; Nasi dicampur cuka dan diberi ikan mentah
+
+うどん ; Mie jepang ukuran besar
+
+そば ; Mie jepang warna abu-abu
+
+ラーメン ; Mie jepang ukuran biasa
+
+やきそば <br> 焼きそば ; Mie goreng jepang
+
+おこのみやき <br> お好み焼き ; Gorengan dicampur daging di loyang
+
+カレーライス ; Nasi kare
+
+ハンバーグ ; Hamburger
+
+コロッケ ; Kroket
+
+えびフライ ; Udang goreng tepung
+
+フライドチキン ; Ayam goreng
+
+サラダ ; Salad
+
+スープ ; Sup
+
+スパゲッティ ; Spageti
+
+ピザ ; Pizza
+
+トースト ; Roti panggang
+
+コーヒー ; Kopi
+
+こうちゃ <br> 紅茶 ; Teh
+
+ココア ; Minuman coklat
+
+ジュース ; Jus
+
+コーラ ; Coca cola

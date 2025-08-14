@@ -1,0 +1,57 @@
+登ります、上ります ; のぼります <br> Naik, mendaki
+
+泊まります ; とまります （に） <br> Menginap
+
+掃除します ; そうじします <br> Membersihkan
+
+洗濯します ; せんたくします <br> Mencuci pakaian
+
+眠い ; ねむい <br> Mengantuk
+
+強い ; つよい <br> Kuat
+
+弱い ; よわい <br> Lemah
+
+練習 ; れんしゅう <br> Latihan
+
+相撲 ; すもう <br> Sumo
+
+お茶 ; おちゃ <br> Teh
+
+日 ; ひ <br> Hari
+
+調子 ; ちょうし <br> Kondisi
+
+一度 ; いちど <br> Sekali
+
+一度も ; いちども <br> Sekalipun
+
+乾杯 ; かんぱい <br> Toast
+
+無理な ; むりな <br> Paksa, berlebihan, tidak mungkin
+
+体にいい ; からだにいい <br> Baik untuk tubuh
+
+茶道 ; さどう <br> Upacara minum teh
+
+華道 ; かどう <br> Seni merangkai bunga
+
+書道 ; しょどう <br> Seni menulis huruf Jepang
+
+歌舞伎 ; かぶき <br> Kabuki (Drama tradisional Jepang)
+
+能 ; のう <br> Noh (Drama topeng tradisional)
+
+文楽 ; ぶんらく <br> Bunraku (Wayang golek tradisional Jepang)
+
+柔道 ; じゅうどう <br> Judo (Olahraga tradisional Jepang)
+
+剣道 ; けんどう <br> Kendo (Olahraga tradisional Jepang)
+
+空手 ; からて <br> Karate (olahraga beladiri Jepang)
+
+漫才。落語 ; まんざい。らくご <br> Lelucon, komedi
+
+囲碁。将棋 ; いご。しょうぎ <br> Catur Jepang
+
+盆踊り ; ぼんおどり <br> Tarian bon

@@ -1,0 +1,113 @@
+のります （に） <br> 乗ります ; Naik
+
+おります （を） <br> 降ります ; Turun
+
+のりかえます <br> 乗り換えます ; Ganti, pindah kendaraan
+
+あびます （を） <br> 浴びます ; Mandi
+
+いれます <br> 入れます ; Memasukkan
+
+だします <br> 出します ; Mengeluarkan
+
+おろします （を） <br> 下ろします ; Mengeluarkan/mengambil uang
+
+はいります <br> 入ります ; Masuk
+
+でます <br> 出ます ; Keluar
+
+おします <br> 押します ; Menekan
+
+のみます <br> 飲みます ; Minum
+
+はじめます <br> 始めます ; Mulai
+
+けんがくします <br> 見学します ; Mengunjungi
+
+でんわします <br> 電話します ; Menelepon
+
+わかい <br> 若い ; Muda
+
+ながい <br> 長い ; Panjang
+
+みじかい <br> 短い ; Pendek
+
+あかるい <br> 明るい ; Terang
+
+くらい <br> 暗い ; Gelap
+
+からだ <br> 体 ; Badan
+
+あたま <br> 頭 ; Kepala
+
+かみ <br> 髪 ; Rambut
+
+かお <br> 顔 ; Wajah
+
+め <br> 目 ; Mata
+
+みみ <br> 耳 ; Telinga
+
+はな <br> 鼻 ; Hidung
+
+くち <br> 口 ; Mulut
+
+は <br> 歯 ; Gigi
+
+おなか ; Perut
+
+あし <br> 足 ; Kaki
+
+せ <br> 背 ; Punggung
+
+サービス ; Pelayanan
+
+ジョギング ; Joging
+
+シャワー ; Shower
+
+みどり <br> 緑 ; Hijau
+
+おてら <br> お寺 ; Kuil
+
+じんじゃ <br> 神社 ; Wihara
+
+～ばん <br> ～番 ; Nomer
+
+どうやって ; Dengan cara bagaimana, bagaimana caranya?
+
+どの～ ; Yang mana?
+
+どれ ; Mana?
+
+すごいですね ; Hebat
+
+いいえ、まだまだです ; Tidak, belum memuaskan
+
+おひきだし <br> お引き出し ; Penarikan uang
+
+まず ; Pertama-tama, terlebih dahulu
+
+つぎに <br> 次に ; Kemudian, berikutnya
+
+キャッシュカード ; Kartu ATM
+
+あんしょうばんごう <br> 暗証番号 ; PIN
+
+きんがく <br> 金額 ; Jumlah uang
+
+かくにん <br> 確認 ; Memastikan
+
+ボタン ; Tombol
+
+ゆきまつり <br> 雪祭り ; Pesta salju
+
+おあずけいれ <br> お預入れ ; Menambahkan saldo
+
+おふりこみ <br> お振込み ; Pembayaran
+
+おふりかえ <br> お振り替え ; Pengiriman
+
+つうちょうきにゅう <br> 通帳記入 ; Pembaharuan buku catatan bank
+
+ざんだかしょうかい <br> 残高照会 ; Cek saldo

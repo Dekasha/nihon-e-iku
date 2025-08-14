@@ -1,0 +1,133 @@
+ハンサム（な） ; Tampan / gagah / ganteng
+
+きれい（な） ; Cantik / bersih
+
+しずか（な） <br> 静香（な） ; Sunyi / tenang
+
+にぎやか（な） ; Ramai
+
+ゆうめい（な） <br> 有名（な） ; Terkenal
+
+しんせつ（な） <br> 親切（な） ; Baik hati
+
+げんき（な） <br> 元気（な） ; Sehat
+
+ひま（な） <br> 暇（な） ; Senggang
+
+べんり（な） <br> 便利（な） ; Praktis
+
+すてき（な） ; Bagus
+
+おおきい <br> 大きい ; Besar
+
+ちいさい <br> 小さい ; Kecil
+
+あたらしい <br> 新しい ; Baru
+
+ふるい <br> 古い ; Lama / tua
+
+いい（よい） ; Baik / bagus
+
+わるい <br> 悪い ; Jelek
+
+あつい <br> 暑い、熱い ; Panas
+
+さむい <br> 寒い ; Dingin suhu
+
+つめたい <br> 冷たい ; Dingin benda
+
+むずかしい <br> 難しい ; Sulit / susah
+
+やさしい <br> 易しい ; Mudah / gampang
+
+たかい <br> 高い ; Mahal / tinggi
+
+やすい <br> 安い ; Murah
+
+ひくい <br> 低い ; Rendah
+
+おもしろい ; Menarik
+
+おいしい ; Enak
+
+いそがしい <br> 忙しい ; Sibuk
+
+たのしい <br> 楽しい ; Senang
+
+しろい <br> 白い ; Putih
+
+くろい <br> 黒い ; Hitam
+
+あかい <br> 赤い ; Merah
+
+あおい <br> 青い ; Biru
+
+さくら <br> 桜 ; Sakura
+
+やま <br> 山 ; Gunung
+
+まち <br> 町 ; Kota
+
+たべもの <br> 食べ物 ; Makanan
+
+ところ <br> 所 ; Tempat
+
+りょう <br> 寮 ; Asrama
+
+レストラン ; Restoran
+
+せいかつ <br> 生活 ; Kehidupan
+
+しごと <br> 仕事 ; Pekerjaan
+
+どう ; Bagaimana?
+
+どんな～ ; Yang bagaimana?
+
+とても ; Sangat / ~sekali
+
+あまり ; Tidak begitu ~ / kurang begitu ~
+
+そして ; Kemudian
+
+～が～ ; Tetapi
+
+おげんきですか <br> お元気ですか ; Apa kabar?
+
+そうですね ; Bagaimana ya?
+
+～もういっぱいいかがですか ; Mau nambah secangkir lagi?
+
+（いいえ）けっこうです ; Cukup
+
+そろそろしつれいします <br> そろそろ失礼します ; Maaf saya mau pamit dulu
+
+いいえ ; Sama-sama
+
+またいらっしゃってください ; Silakan datang lagi
+
+シャンハイ ; Shanghai
+
+みどり ; Hijau
+
+むらさき ; Ungu
+
+きいろい ; Kuning
+
+ちゃいろい ; coklat
+
+ピンク ; Merah muda
+
+オレンジ ; Oranye
+
+グレー ; Abu-abu
+
+ベージュ ; krem
+
+はる <br> 春 ; Musim semi
+
+なつ <br> 夏 ; Musim panas
+
+あき <br> 秋 ; Musim gugur
+
+ふゆ <br> 冬 ; Musim dingin

@@ -1,0 +1,133 @@
+行きます ; いきます <br> Pergi
+
+来ます ; きます <br> Datang
+
+帰ります ; かえります <br> Pulang
+
+学校 ; がっこう <br> Sekolahan
+
+駅 ; えき <br> Stasiun
+
+飛行機 ; ひこうき <br> Pesawat terbang
+
+船 ; ふね <br> Kapal laut
+
+電車 ; でんしゃ <br> Kereta listrik
+
+地下鉄 ; ちかてつ <br> Kereta bawah tanah
+
+新幹線 ; しんかんせん <br> Shinkansen
+
+自転車 ; じてんしゃ <br> Sepeda
+
+歩いて ; あるいて <br> Jalan kaki
+
+人 ; ひと <br> Orang
+
+友達 ; ともだち <br> Teman
+
+彼 ; かれ <br> Dia (laki-laki)
+
+彼女 ; かのじょ <br> Dia (perempuan)
+
+家族 ; かぞく <br> Keluarga
+
+一人で ; ひとりで <br> Sendirian
+
+先週 ; せんしゅう <br> Minggu lalu
+
+今週 ; こんしゅう <br> Minggu ini
+
+来週 ; らいしゅう <br> Minggu depan
+
+先月 ; せんげつ <br> Bulan lalu
+
+今月 ; こんげつ <br> Bulan ini
+
+来月 ; らいげつ <br> Bulan depan
+
+去年 ; きょねん <br> Tahun lalu
+
+今年 ; ことし <br> Tahun ini
+
+来年 ; らいねん <br> Tahun depan
+
+～年 ; ～ねん <br> Tahun
+
+何年 ; なんねん <br> Tahun berapa?
+
+～月 ; ～がつ <br> Bulan
+
+何月 ; なんがつ <br> Bulan apa?
+
+一日 ; ついたち <br> Tanggal 1
+
+二日 ; ふつか <br> Tanggal 2, 2 hari
+
+三日 ; みっか <br> Tanggal 3, 3 hari
+
+四日 ; よっか <br> Tanggal 4, 4 hari
+
+五日 ; いつか <br> Tanggal 5, 5 hari
+
+六日 ; むいか <br> Tanggal 6, 6 hari
+
+七日 ; なのか <br> Tanggal 7, 7 hari
+
+八日 ; ようか <br> Tanggal 8, 8 hari
+
+九日 ; ここのか <br> Tanggal 9, 9 hari
+
+十日 ; とおか <br> Tanggal 10, 10 hari
+
+十四日 ; じゅうよっか <br> Tanggal 14, 14 hari
+
+二十日 ; はつか <br> Tanggal 20, 20 hari
+
+二十四日 ; にじゅうよっか <br> Tanggal 24, 24 hari
+
+～日 ; ～にち <br> Tanggal, hari
+
+何日 ; なんいち <br> Tanggal berapa, berapa hari
+
+誕生日 ; たんじょうび <br> Hari ulang tahun
+
+～番線 ; ～ばんせん <br> Peron nomor, jalur nomor
+
+次の ; つぎの <br> Yang berikutnya
+
+普通 ; ふつう <br> Biasa
+
+急行 ; きゅうこう <br> Ekspres
+
+特急 ; とっきゅう <br> Super ekspres
+
+祝祭日 ; しゅくさいじつ <br> Hari libur nasional
+
+元日 ; がんじつ <br> Tahun baru
+
+成人の日 ; せいじんのひ <br> Hari perayaan menjadi dewasa
+
+建国記念の日 ; けんこくきねんのひ <br> Hari pembangunan nasional
+
+春分の日 ; しゅんぶんのひ <br> Hari equinox pada musim semi
+
+昭和の日 ; しょうわのひ <br> Hari Showa
+
+憲法記念日 ; けんぽうきねんび <br> Hari peringatan konstitusi
+
+海の日 ; うみのひ <br> Hari bahari
+
+山の日 ; やまのひ <br> Hari gunung
+
+敬老の日 ; けいろうのひ <br> Hari hormat kepada orang tua
+
+秋分の日 ; しゅうぶんのひ <br> Hari equinox pada musim gugur
+
+体育の日 ; たいいくのひ <br> Hari kesehatan olahraga
+
+文化の日 ; ぶんかのひ <br> Hari kebudayaan
+
+勤労感謝の日 ; きんろうかんしゃのひ <br> Hari bersyukur untuk pekerjaan
+
+天皇誕生日 ; てんのうたんじょうび <br> Hari ulang tahun kaisar

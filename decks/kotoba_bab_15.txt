@@ -1,0 +1,91 @@
+おきます <br> 置きます ; Meletakkan
+
+つくります <br> 作ります ; Membuat
+
+うります <br> 売ります ; Menjual
+
+しります <br> 知ります ; Mengenal, mengetahui
+
+すみます <br> 住みます ; Tinggal
+
+けんきゅうします <br> 研究します ; Meneliti
+
+しりょう <br> 資料 ; Data, bahan
+
+カタログ ; Katalog
+
+ふく <br> 服 ; Pakaian
+
+せいひん <br> 製品 ; Produk
+
+ソフト ; Perangkat lunak
+
+でんしじしょ <br> 電子辞書 ; Kamus elektronik
+
+けいざい <br> 経済 ; Ekonomi
+
+はいしゃ <br> 歯医者 ; Dokter gigi
+
+どくしん <br> 独身 ; Bujangan, jomblo
+
+おもいだします <br> 思い出します ; Teringat
+
+いらっしゃいます ; Ada (hidup)
+
+しょくぎょう <br> 職業 ; Pekerjaan, profesi
+
+かいしゃいん <br> 会社員 ; Pegawai perusahaan
+
+こうむいん <br> 公務員 ; Pegawai negeri
+
+えきいん <br> 駅員 ; Pegawai stasiun
+
+ぎんこういん <br> 銀行員 ; Pegawai bank
+
+ゆうびんきょくいん <br> 郵便局員 ; Pegawai kantor pos
+
+てんいん <br> 店員 ; Pegawai toko
+
+ちょうりし <br> 調理師 ; Tukang masak
+
+りようし <br> 理容師 ; Tukang potong rambut
+
+びようし <br> 美容師 ; Ahli kecantikan
+
+きょうし <br> 教師 ; Guru
+
+べんごし <br> 弁護士 ; Pengacara
+
+けんきゅうしゃ <br> 研究者 ; Peneliti
+
+いしゃ <br> 医者 ; Dokter
+
+かんごし <br> 看護師 ; Perawat
+
+うんてんしゅ <br> 運転手 ; Sopir
+
+けいさつかん <br> 警察官 ; Polisi
+
+がいこうかん <br> 外交官 ; Diplomat
+
+せいじか <br> 政治家 ; Politikus
+
+がか <br> 画家 ; Pelukis
+
+さっか <br> 作家 ; Pengarang
+
+おんがくか <br> 音楽家 ; Musisi
+
+けんちくか <br> 建築家 ; Arsitek
+
+エンジニア ; Insinyur
+
+デザイナー ; Perancang busana
+
+ジャーナリスト ; Wartawan
+
+かしゅ <br> 歌手 ; Penyanyi
+
+はいゆう <br> 俳優 ; Aktor / artis
+
+スポーツせんしゅ <br> スポーツ選手 ; Olahragawan / atlit

@@ -1,0 +1,79 @@
+置きます ; おきます <br> Meletakkan
+
+作ります ; つくります <br> Membuat
+
+売ります ; うります <br> Menjual
+
+知ります ; しります <br> Mengenal, mengetahui
+
+住みます ; すみます <br> Tinggal
+
+研究します ; けんきゅうします <br> Meneliti
+
+資料 ; しりょう <br> Data, bahan
+
+服 ; ふく <br> Pakaian
+
+製品 ; せいひん <br> Produk
+
+電子辞書 ; でんしじしょ <br> Kamus elektronik
+
+経済 ; けいざい <br> Ekonomi
+
+歯医者 ; はいしゃ <br> Dokter gigi
+
+独身 ; どくしん <br> Bujangan, jomblo
+
+思い出します ; おもいだします <br> Teringat
+
+職業 ; しょくぎょう <br> Pekerjaan, profesi
+
+会社員 ; かいしゃいん <br> Pegawai perusahaan
+
+公務員 ; こうむいん <br> Pegawai negeri
+
+駅員 ; えきいん <br> Pegawai stasiun
+
+銀行員 ; ぎんこういん <br> Pegawai bank
+
+郵便局員 ; ゆうびんきょくいん <br> Pegawai kantor pos
+
+店員 ; てんいん <br> Pegawai toko
+
+調理師 ; ちょうりし <br> Tukang masak
+
+理容師 ; りようし <br> Tukang potong rambut
+
+美容師 ; びようし <br> Ahli kecantikan
+
+教師 ; きょうし <br> Guru
+
+弁護士 ; べんごし <br> Pengacara
+
+研究者 ; けんきゅうしゃ <br> Peneliti
+
+医者 ; いしゃ <br> Dokter
+
+看護師 ; かんごし <br> Perawat
+
+運転手 ; うんてんしゅ <br> Sopir
+
+警察官 ; けいさつかん <br> Polisi
+
+外交官 ; がいこうかん <br> Diplomat
+
+政治家 ; せいじか <br> Politikus
+
+画家 ; がか <br> Pelukis
+
+作家 ; さっか <br> Pengarang
+
+音楽家 ; おんがくか <br> Musisi
+
+建築家 ; けんちくか <br> Arsitek
+
+歌手 ; かしゅ <br> Penyanyi
+
+俳優 ; はいゆう <br> Aktor / artis
+
+スポーツ選手 ; スポーツせんしゅ <br> Olahragawan / atlit

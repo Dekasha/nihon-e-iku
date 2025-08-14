@@ -1,0 +1,149 @@
+きります <br> 切ります ; Memotong / menggunting
+
+おくります <br> 送ります ; Mengirim
+
+あげます ; Memberikan
+
+もらいます ; Menerima / mendapatkan
+
+かします <br> 貸します ; Meminjamkan / menyewakan
+
+かります <br> 借ります ; Meminjam / menyewa
+
+おしえます <br> 教えます ; Mengajar
+
+ならいます <br> 習います ; Belajar (kepada)
+
+かけます （を）; Menelpon
+
+て <br> 手 ; Tangan
+
+はし ; Sumpit
+
+スプーン ; Sendok
+
+ナイフ ; Pisau
+
+フォーク ; Garpu
+
+はさみ ; Gunting
+
+パソコン ; Laptop
+
+ケータイ ; HP
+
+メール ; Email
+
+ねんがじょう <br> 年賀状 ; Kartu tahun baru
+
+パンチ ; Pelubang kertas
+
+ホッチキス ; Stapler
+
+セロテープ ; Selotip
+
+けしゴム <br> 消しゴム ; Penghapus karet
+
+かみ <br> 紙 ; Kertas
+
+はな <br> 花 ; Bunga
+
+シャツ ; Kemeja
+
+プレゼント ; Hadiah / kado
+
+にもつ <br> 荷物 ; Barang
+
+おかね <br> お金 ; Uang
+
+きっぷ <br> 切符 ; Karcis
+
+クリスマス ; Natal
+
+ちち <br> 父 ; Ayah
+
+はは <br> 母 ; Ibu
+
+おとうさん <br> お父さん ; Ayah orang lain
+
+おかあさん <br> お母さん ; Ibu orang lain
+
+もう ; Sudah
+
+まだ ; Belum
+
+これから ; Mulai dari sekarang
+
+すてきですね ; Bagus ya / indah ya
+
+いらっしゃい ; Selamat datang
+
+どうぞおあがりください ; Silakan masuk
+
+しつれいします <br> 失礼します ; Permisi
+
+～いかがですか ; Bagaimana? (menawarkan sesuatu kepada orang)
+
+いただきます ; Selamat makan
+
+ごちそうさまでした ; Terima kasih atas hidangannya
+
+スペイン ; Spanyol
+
+かぞく <br> 家族 ; Keluarga
+
+そぼ <br> 祖母 ; Nenek
+
+そふ <br> 祖父 ; Kakek
+
+そふぼ <br> 祖父母 ; Kakek nenek
+
+りょうしん <br> 両親 ; Orang tua
+
+いもうと <br> 妹 ; Adik perempuan
+
+おとうと <br> 弟 ; Adik laki-laki
+
+あね <br> 姉 ; Kakak perempuan
+
+あに <br> 兄 ; Kakak laki-laki
+
+きょうだい <br> 兄弟 ; Saudara kandung
+
+つま <br> 妻 ; Istri
+
+おっと <br> 夫 ; Suami
+
+ふうふ <br> 夫婦 ; Pasangan suami istri
+
+むすめ <br> 娘 ; Anak perempuan
+
+むすこ <br> 息子 ; Anak laki-laki
+
+こども <br> 子供 ; Anak
+
+おばあさん ; Nenek (orang lain)
+
+おじいさん ; Kakek (orang lain)
+
+ごりょうしん ; Orang tua (orang lain)
+
+いもうとさん ; Adik perempuan (orang lain)
+
+おとうとさん ; Adik laki-laki (orang lain)
+
+おねえさん ; Kakak perempuan (orang lain)
+
+おにいさん ; Kakak laki-laki (orang lain)
+
+ごきょうだい ; Saudara kandung (orang lain)
+
+おくさん ; Istri (orang lain)
+
+ごふうふ ; Pasangan suami istri (orang lain)
+
+むすめさん ; Anak perempuan (orang lain)
+
+むすこさん ; Anak laki-laki (orang lain)
+
+おこさん ; Anak (orang lain)

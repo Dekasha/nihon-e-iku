@@ -1,0 +1,77 @@
+静香（な） ; しずか（な） <br> Sunyi / tenang
+
+有名（な） ; ゆうめい（な） <br> Terkenal
+
+親切（な） ; しんせつ（な） <br> Baik hati
+
+元気（な） ; げんき（な） <br> Sehat
+
+暇（な） ; ひま（な） <br> Senggang
+
+便利（な） ; べんり（な） <br> Praktis
+
+大きい ; おおきい <br> Besar
+
+小さい ; ちいさい <br> Kecil
+
+新しい ; あたらしい <br> Baru
+
+古い ; ふるい <br> Lama / tua
+
+悪い ; わるい <br> Jelek
+
+暑い、熱い ; あつい <br> Panas
+
+寒い ; さむい <br> Dingin suhu
+
+冷たい ; つめたい <br> Dingin benda
+
+難しい ; むずかしい <br> Sulit / susah
+
+易しい ; やさしい <br> Mudah / gampang
+
+高い ; たかい <br> Mahal / tinggi
+
+安い ; やすい <br> Murah
+
+低い ; ひくい <br> Rendah
+
+忙しい ; いそがしい <br> Sibuk
+
+楽しい ; たのしい <br> Senang
+
+白い ; しろい <br> Putih
+
+黒い ; くろい <br> Hitam
+
+赤い ; あかい <br> Merah
+
+青い ; あおい <br> Biru
+
+桜 ; さくら <br> Sakura
+
+山 ; やま <br> Gunung
+
+町 ; まち <br> Kota
+
+食べ物 ; たべもの <br> Makanan
+
+所 ; ところ <br> Tempat
+
+寮 ; りょう <br> Asrama
+
+生活 ; せいかつ <br> Kehidupan
+
+仕事 ; しごと <br> Pekerjaan
+
+お元気ですか ; おげんきですか <br> Apa kabar?
+
+そろそろ失礼します ; そろそろしつれいします <br> Maaf saya mau pamit dulu
+
+春 ; はる <br> Musim semi
+
+夏 ; なつ <br> Musim panas
+
+秋 ; あき <br> Musim gugur
+
+冬 ; ふゆ <br> Musim dingin

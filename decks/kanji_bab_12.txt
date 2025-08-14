@@ -1,0 +1,55 @@
+簡単な ; かんたん（な） <br> Mudah, gampang
+
+近い ; ちかい <br> Dekat
+
+遠い ; とおい <br> Jauh
+
+早い，速い ; はやい <br> Cepat
+
+遅い ; おそい <br> Lambat
+
+多い ; おおい <br> Banyak
+
+少ない ; すくない <br> Sedikit
+
+暖かい、温かい ; あたたかい <br> Hangat
+
+涼しい ; すずしい <br> Sejuk
+
+甘い ; あまい <br> Manis
+
+辛い ; からい <br> Pedas
+
+重い ; おもい <br> Berat
+
+軽い ; かるい <br> Ringan
+
+季節 ; きせつ <br> Musim
+
+天気 ; てんき <br> Cuaca
+
+雨 ; あめ <br> Hujan
+
+雪 ; ゆき <br> Salju
+
+曇り ; くもり <br> Mendung
+
+空港 ; くうこう <br> Bandara
+
+海 ; うみ <br> Laut
+
+世界 ; せかい <br> Dunia
+
+祭り ; まつり <br> Perayaan
+
+生け花 ; いけばな <br> Seni merangkai bunga
+
+紅葉 ; もみじ <br> Maple
+
+初めて ; はじめて <br> Pertama kali
+
+お帰りなさい ; おかえりなさい <br> Sudah pulang ya...
+
+疲れました ; つかれました <br> Capek / lelah
+
+名所 ; めいしょ <br> Tempat terkenal

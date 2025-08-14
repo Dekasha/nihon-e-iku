@@ -1,0 +1,121 @@
+おきます <br> 起きます ; Bangun tidur
+
+ねます <br> 寝ます ; Tidur
+
+はたらきます <br> 働きます ; Bekerja
+
+やすみます <br> 休みます ; Beristirahat, libur
+
+べんきょうします <br> 勉強します ; Belajar
+
+おわります <br> 終わります ; Selesai
+
+デパート ; Departemen store
+
+ぎんこう <br> 銀行 ; Bank
+
+ゆうびんきょく <br> 郵便局 ; Kantor pos
+
+としょかん <br> 図書館 ; Perpustakaan
+
+びじゅつかん <br> 美術館 ; Gedung kesenian
+
+いま <br> 今 ; Sekarang
+
+～じ <br> ～時 ; Jam, pukul
+
+～ふん／ぶん <br> ～分 ; Menit
+
+はん <br> 半 ; Setengah
+
+なんじ <br> 何時 ; Jam berapa?
+
+なんぷん <br> 何分 ; Berapa menit?
+
+ごぜん <br> 午前 ; AM (waktu sebelum jam 12 siang)
+
+ごご <br> 午後 ; PM (waktu setelah jam 12 siang)
+
+あさ <br> 朝 ; Pagi
+
+ひる <br> 昼 ; Siang
+
+ばん <br> 晩 ; Malam
+
+よる <br> 夜 ; Malam
+
+おととい <br> 一昨日 ; 2 hari yang lalu, kemarin lusa
+
+きのう <br> 昨日 ; Kemarin
+
+きょう <br> 今日 ; Hari ini
+
+あした <br> 明日 ; Besok
+
+あさって <br> 明後日 ; Besok lusa
+
+けさ <br> 今朝 ; Tadi pagi
+
+こんばん <br> 今晩 ; Malam ini
+
+やすみ <br> 休み ; Istirahat, cuti, libur
+
+ひるやすみ <br> 昼休み ; Istirahat siang
+
+しけん <br> 試験 ; Ujian
+
+かいぎ <br> 会議 ; Rapat
+
+えいが <br> 映画 ; Film
+
+まいあさ <br> 毎朝 ; Setiap pagi
+
+まいばん <br> 毎晩 ; Setiap malam
+
+まいにち <br> 毎日 ; Setiap hari
+
+げつようび <br> 月曜日 ; Hari Senin
+
+かようび <br> 火曜日 ; Hari Selasa
+
+すいようび <br> 水曜日 ; Hari Rabu
+
+もくようび <br> 木曜日 ; Hari Kamis
+
+きんようび <br> 金曜日 ; Hari Jumat
+
+どようび <br> 土曜日 ; Hari Sabtu
+
+にちようび <br> 日曜日 ; Hari Minggu
+
+なんようび <br> 何曜日 ; Hari apa?
+
+～から ; Dari
+
+～まで ; Sampai
+
+～と～ ; Dan
+
+たいへんですね <br> 大変ですね ; Berat ya
+
+ばんごう <br> 番号 ; Nomor
+
+なんばん <br> 何番 ; Nomor berapa?
+
+ニューヨーク ; New York
+
+ペキン ; Beijing
+
+ロサンゼルス ; Los Angeles
+
+ロンドン ; London
+
+けいさつしょ <br> 警察署 ; Kantor polisi
+
+しょうぼうしょ <br> 消防署 ; Pemadam kebakaran
+
+じほう <br> 時報 ; Pemberitahuan waktu
+
+てんきよほう <br> 天気予報 ; Ramalan cuaca
+
+でんわばんごうあんない <br> 電話番号案内 ; Petunjuk nomor telepon

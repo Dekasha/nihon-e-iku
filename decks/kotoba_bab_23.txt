@@ -1,0 +1,75 @@
+ききます （に） <br> 聞きます ; Bertanya
+
+まわします <br> 回します ; Memutar
+
+ひきます <br> 引きます ; Menarik, tarik
+
+かえます <br> 変えます ; Mengubah
+
+さわります （に） <br> 触ります ; Menyentuh
+
+でます （が） <br> 出ます ; Keluar
+
+あるきます <br> 歩きます ; Berjalan kaki
+
+わたります （を） <br> 渡ります ; Menyeberang
+
+まがります （へ） <br> 曲がります ; Belok
+
+さびしい <br> 寂しい ; Sepi
+
+おゆ <br> お湯 ; Air panas
+
+おと <br> 音 ; Suara, bunyi
+
+サイズ ; Ukuran
+
+こしょう <br> 故障 ; Kerusakan
+
+みち <br> 道 ; Jalan
+
+こうさてん <br> 交差点 ; Perempatan
+
+しんごう <br> 信号 ; Lampu lalu lintas
+
+かど <br> 角 ; Sudut
+
+はし <br> 橋 ; Jembatan
+
+ちゅうしゃじょう <br> 駐車場 ; Tempat parkir
+
+たてもの <br> 建物 ; Bangunan, gedung
+
+なんかいも <br> 何回も ; Berkali-kali
+
+～め <br> ～目 ; Yang ke -
+
+どうろ <br> 道路 ; Jalan
+
+ほどう <br> 歩道 ; Trotoar
+
+しゃどう <br> 車道 ; Jalan mobil
+
+こうそくどうろ <br> 高速道路 ; Jalan tol
+
+とおり <br> 通り ; Jalan
+
+おうだんほどう <br> 横断歩道 ; Tempat menyeberang, zebra cross
+
+ほどうきょう <br> 歩道橋 ; Jembatan penyeberangan
+
+さか <br> 坂 ; Lereng
+
+ふみきり <br> 踏切 ; Lintasan kereta api
+
+ガソリンスタンド ; Pompa bensin, pom bensin
+
+とまれ <br> 止まれ ; Berhenti
+
+しんにゅうきんし <br> 進入禁止 ; Dilarang masuk
+
+いっぽうつうこう <br> 一方通行 ; Satu arah
+
+ちゅうしゃきんし <br> 駐車禁止 ; Dilarang parkir
+
+うせつきんし <br> 右折禁止 ; Dilarang belok kanan

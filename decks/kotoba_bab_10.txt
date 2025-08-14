@@ -1,0 +1,109 @@
+あります ; Ada (benda mati)
+
+います ; Ada (benda hidup)
+
+いろいろ（な） ; Berbagai / macam-macam
+
+おとこのひと <br> 男の人 ; Orang laki-laki
+
+おんなのひと <br> 女の人 ; Orang perempuan
+
+おとこのこ <br> 男の子 ; Anak laki-laki
+
+おんなのこ <br> 女の子 ; Anak perempuan
+
+いぬ <br> 犬 ; Anjing
+
+ねこ <br> 猫 ; Kucing
+
+パンダ ; Panda
+
+ぞう <br> 像 ; Gajah
+
+き <br> 木 ; Pohon
+
+もの <br> 物 ; Barang
+
+でんち <br> 電池 ; Baterai
+
+はこ <br> 箱 ; Kotak
+
+スイッチ ; Saklar
+
+れいぞうこ <br> 冷蔵庫 ; Kulkas
+
+テーブル ; Meja makan
+
+ベッド ; Tempat tidur
+
+たな <br> 棚 ; Lemari
+
+ドア ; Pintu
+
+まど <br> 窓 ; Jendela
+
+ポスト ; Kotak surat
+
+ビル ; Gedung
+
+ＡＴＭ ; ATM
+
+コンビニ ; Toko 24 jam
+
+こうえん <br> 公園 ; Taman
+
+きっさてん <br> 喫茶店 ; Coffe shop / cafe
+
+～や <br> ～屋 ; Toko ~
+
+のりば <br> 乗り場 ; Tempat naik
+
+けん <br> 県 ; Prefektur
+
+うえ <br> 上 ; Atas
+
+した <br> 下 ; Bawah
+
+まえ <br> 前 ; Depan
+
+うしろ <br> 後ろ ; Belakang
+
+みぎ <br> 右 ; Kanan
+
+ひだり <br> 左 ; Kiri
+
+なか <br> 中 ; Dalam
+
+そと <br> 外 ; Luar
+
+となり <br> 隣 ; Samping / sebelah
+
+ちかく <br> 近く ; Dekat
+
+あいだ <br> 間 ; Antara
+
+どうもすみません ; Maaf / terima kasih banyak
+
+ナンプラー ; Kecap ikan
+
+コーナー ; Tempat / bagian penjualan
+
+いちばんした <br> 一番下 ; Paling bawah
+
+げんかん <br> 玄関 ; Pintu masuk
+
+ふろば <br> 風呂場 ; Kamar mandi
+
+せんめんじょ <br> 洗面所 ; Tempat cuci tangan
+
+だいどころ <br> 台所 ; Dapur
+
+しょくどう <br> 食堂 ; Kantin / ruang makan
+
+いま <br> 居間 ; Ruang tamu
+
+しんしつ <br> 寝室 ; Kamar tidur
+
+ろうか <br> 廊下 ; Koridor
+
+ベランダ ; teras

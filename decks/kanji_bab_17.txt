@@ -1,0 +1,81 @@
+覚えます ; おぼえます <br> Mengingat
+
+忘れます ; わすれます <br> Lupa
+
+払います ; はらいます <br> Membayar
+
+返します ; かえします <br> Mengembalikan
+
+出かけます ; でかけます <br> Keluar rumah
+
+脱ぎます ; ぬぎます <br> Melepas pakaian
+
+持って行きます ; もっていきます <br> Membawa pergi
+
+持って来ます ; もってきます <br> Membawa datang
+
+心配します ; しんぱいします <br> Khawatir
+
+残業します ; ざんぎょうします <br> Lembur
+
+出張します ; しゅっちょうします <br> Dinas
+
+大切な ; たいせつな <br> Penting
+
+大丈夫な ; だいじょうぶな <br> Tidak apa-apa
+
+危ない ; あぶない <br> Berbahaya
+
+禁煙 ; きんえん <br> Dilarang merokok
+
+健康保険証 ; けんこうほけんしょう <br> Kartu asuransi kesehatan
+
+熱 ; ねつ <br> Demam
+
+病気 ; びょうき <br> Sakit
+
+薬 ; くすり <br> Obat
+
+上着 ; うわぎ <br> Baju, jaket
+
+下着 ; したぎ <br> Pakaian dalam
+
+痛い ; いたい <br> Sakit (nyeri)
+
+お大事に ; おだいじに <br> Semoga lekas sembuh
+
+頭が痛い ; あたまがいたい <br> Sakit kepala
+
+歯が痛い ; はがいたい <br> Sakit gigi
+
+熱があります ; ねつがあります <br> Demam
+
+せきが出ます ; せきがでます <br> Batuk
+
+鼻水が出ます ; はなみずがでます <br> Pilek
+
+血が出ます ; ちがでます <br> Berdarah
+
+吐き気がします ; はきけがします <br> Mual
+
+寒気がします ; さむけがします <br> Kedinginan
+
+下痢をします ; げりをします <br> Mencret, diare
+
+便秘をします ; べんぴをします <br> Sembelit
+
+食欲がありません ; しょくよくがありません <br> Tidak nafsu makan
+
+肩が凝ります ; かたがこります <br> Bahu pegal
+
+体がだるい ; からだがだるい <br> Badan lemas
+
+盲腸 ; もうちょう <br> Usus buntu
+
+ぎっくり腰 ; ぎっくりごし <br> Sakit pinggang
+
+捻挫 ; ねんざ <br> Keseleo
+
+骨折 ; こっせつ <br> Patah tulang
+
+二日酔い ; ふつかよい <br> Efek sesudah minum

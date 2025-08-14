@@ -1,0 +1,109 @@
+おぼえます <br> 覚えます ; Mengingat
+
+わすれます <br> 忘れます ; Lupa
+
+なくします ; Kehilangan, hilang
+
+はらいます <br> 払います ; Membayar
+
+かえします <br> 返します ; Mengembalikan
+
+でかけます <br> 出かけます ; Keluar rumah
+
+ぬぎます <br> 脱ぎます ; Melepas pakaian
+
+もっていきます <br> 持って行きます ; Membawa pergi
+
+もってきます <br> 持って来ます ; Membawa datang
+
+しんぱいします <br> 心配します ; Khawatir
+
+ざんぎょうします <br> 残業します ; Lembur
+
+しゅっちょうします <br> 出張します ; Dinas
+
+たいせつな <br> 大切な ; Penting
+
+だいじょうぶな <br> 大丈夫な ; Tidak apa-apa
+
+あぶない <br> 危ない ; Berbahaya
+
+きんえん <br> 禁煙 ; Dilarang merokok
+
+けんこうほけんしょう <br> 健康保険証 ; Kartu asuransi kesehatan
+
+ねつ <br> 熱 ; Demam
+
+びょうき <br> 病気 ; Sakit
+
+くすり <br> 薬 ; Obat
+
+おふろ ; Kamar mandi
+
+うわぎ <br> 上着 ; Baju, jaket
+
+したぎ <br> 下着 ; Pakaian dalam
+
+までに ; Sampai dengan (menyatakan batas waktu)
+
+ですから ; Oleh karena itu
+
+どうしましたか ; Apa yang terjadi, ada masalah apa?
+
+のど ; Tenggorokan
+
+いたい <br> 痛い ; Sakit (nyeri)
+
+かぜ ; Masuk angin
+
+それから ; Setelah itu, kemudian, dan
+
+おだいじに <br> お大事に ; Semoga lekas sembuh
+
+あたまがいたい <br> 頭が痛い ; Sakit kepala
+
+おなかがいたい ; Sakit perut
+
+はがいたい <br> 歯が痛い ; Sakit gigi
+
+ねつがあります <br> 熱があります ; Demam
+
+せきがでます <br> せきが出ます ; Batuk
+
+はなみずがでます <br> 鼻水が出ます ; Pilek
+
+ちがでます <br> 血が出ます ; Berdarah
+
+はきけがします <br> 吐き気がします ; Mual
+
+さむけがします <br> 寒気がします ; Kedinginan
+
+めまいがします ; Pusing
+
+げりをします <br> 下痢をします ; Mencret, diare
+
+べんぴをします <br> 便秘をします ; Sembelit
+
+けがをします ; Terluka
+
+やけどをします ; Terbakar
+
+しょくよくがありません <br> 食欲がありません ; Tidak nafsu makan
+
+かたがこります <br> 肩が凝ります ; Bahu pegal
+
+からだがだるい <br> 体がだるい ; Badan lemas
+
+かゆい ; Gatal
+
+インフルエンザ ; Flu, influenza
+
+もうちょう <br> 盲腸 ; Usus buntu
+
+ぎっくりごし <br> ぎっくり腰 ; Sakit pinggang
+
+ねんざ <br> 捻挫 ; Keseleo
+
+こっせつ <br> 骨折 ; Patah tulang
+
+ふつかよい <br> 二日酔い ; Efek sesudah minum

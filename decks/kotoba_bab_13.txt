@@ -1,0 +1,101 @@
+あそびます <br> 遊びます ; Bermain
+
+およぎます <br> 泳ぎます ; Berenang
+
+むかえます <br> 迎えます ; Menjemput
+
+つかれます <br> 疲れます ; Lelah
+
+けっこんします <br> 結婚します ; Menikah
+
+かいものします <br> 買い物します ; Berbelanja
+
+しょくじします <br> 食事します ; Makan bersama
+
+さんぽします （を） <br> 散歩します ; Jalan-jalan
+
+たいへん（な） <br> 大変な ; Susah, berat
+
+ほしい <br> 欲しい ; Ingin
+
+ひろい <br> 広い ; Luas
+
+せまい <br> 狭い ; Sempit
+
+プール ; Kolam renang
+
+かわ <br> 川 ; Sungai
+
+びじゅつ <br> 美術 ; Seni
+
+つり <br> 釣り ; Pancing, memancing
+
+スキー ; Ski
+
+しゅうまつ <br> 週末 ; Akhir pekan
+
+おしょうがつ <br> お正月 ; Tahun baru
+
+～ごろ ; Kira-kira, sekitar
+
+なにか <br> 何か ; Sesuatu
+
+どこか ; Suatu tempat
+
+のどがかわきます ; Haus
+
+おなかがすきます ; Lapar
+
+そうしましょう ; Ya ayo
+
+ごちゅうもんは <br> ご注文は ; Mau pesan apa?
+
+おまちください <br> お待ちください ; Tunggu sebentar
+
+べつべつに <br> 別々に ; Sendiri-sendiri / masing-masing
+
+はくぶつかん <br> 博物館 ; Museum
+
+びじゅつかん <br> 美術館 ; Gedung kesenian
+
+としょかん <br> 図書館 ; Perpustakaan
+
+えいがかん <br> 映画館 ; Bioskop
+
+どうぶつえん <br> 動物園 ; Kebun binatang
+
+しょくぶつえん <br> 植物園 ; Kebun raya
+
+おてら <br> お寺 ; Kuil Budha
+
+じんじゃ <br> 神社 ; Kuil Shinto
+
+きょうかい <br> 協会 ; Gereja
+
+たいしかん <br> 大使館 ; Kedutaan besar
+
+にゅうこくかんりきょく <br> 入国管理局 ; Kantor imigrasi
+
+しやくしょ <br> 市役所 ; Kantor balaikota
+
+こうばん <br> 交番 ; Pos polisi
+
+ちゅうしゃじょう <br> 駐車場 ; Tempat parkir
+
+だいがく <br> 大学 ; Universitas
+
+こうこう <br> 高校 ; SMA
+
+ちゅうがっこう <br> 中学校 ; SMP
+
+しょうがっこう <br> 小学校 ; SD
+
+ようちえん <br> 幼稚園 ; TK
+
+にくや <br> 肉屋 ; Toko daging
+
+パンや <br> パン屋 ; Toko roti
+
+さかなや <br> 魚屋 ; Toko ikan
+
+やおや <br> 八百屋 ; Toko sayuran

@@ -1,0 +1,75 @@
+教室 ; きょうしつ <br> Ruang kelas
+
+食堂 ; しょくどう <br> Ruang makan, Kantin
+
+事務所 ; じむしょ <br> Kantor
+
+会議室 ; かいぎしつ <br> Ruang rapat
+
+受付 ; うけつけ <br> Meja informasi
+
+部屋 ; へや <br> Kamar
+
+お手洗い ; おてあらい <br> Kamar kecil, WC
+
+階段 ; かいだん <br> Tangga
+
+自動販売機 ; じどうはんばいき <br> Mesin jual otomatis
+
+電話 ; でんわ <br> Telepon
+
+お国 ; おくに <br> Negara
+
+会社 ; かいしゃ <br> Perusahaan
+
+家 ; うち <br> Rumah
+
+靴 ; くつ <br> Sepatu
+
+売り場 ; うりば <br> Tempat penjualan
+
+地下 ; ちか <br> Bawah tanah, basement
+
+～階 ; ～かい <br> lantai～/ tingkat～
+
+何階 ; なんがい <br> Lantai berapa?
+
+～円 ; ～えん <br> ～yen
+
+百 ; ひゃく <br> Seratus
+
+千 ; せん <br> Seribu
+
+万 ; まん <br> Puluh ribu
+
+見せてください ; みせてください <br> Tolong perlihatkan
+
+屋上 ; おくじょう <br> Lantai atas
+
+遊園地 ; ゆうえんち <br> Tempat hiburan
+
+催し物会場 ; もよおしものかいじょう <br> Tempat pertunjukan
+
+眼鏡 ; めがね <br> Kacamata
+
+スポーツ用品 ; スポーツようひん <br> Peralatan olahraga
+
+旅行用品 ; りょこうようひん <br> Peralatan wisata
+
+子供の服 ; こどものふく <br> Pakaian anak
+
+文房具 ; ぶんぼうぐ <br> Alat tulis
+
+家具 ; かぐ <br> Perlengkapan rumah
+
+食器 ; しょっき <br> Peralatan makan
+
+電化製品 ; でんかせいひん <br> Barang elektronik
+
+紳士服 ; しんしふく <br> Pakaian pria
+
+婦人服 ; ふじんふく <br> Pakaian wanita
+
+化粧品 ; けしょうひん <br> Kosmetik
+
+食品 ; しょくひん <br> Makanan

@@ -1,0 +1,71 @@
+聞きます ; ききます （に） <br> Bertanya
+
+回します ; まわします <br> Memutar
+
+引きます ; ひきます <br> Menarik, tarik
+
+変えます ; かえます <br> Mengubah
+
+触ります ; さわります （に） <br> Menyentuh
+
+出ます ; でます （が） <br> Keluar
+
+歩きます ; あるきます <br> Berjalan kaki
+
+渡ります ; わたります （を） <br> Menyeberang
+
+曲がります ; まがります （へ） <br> Belok
+
+寂しい ; さびしい <br> Sepi
+
+お湯 ; おゆ <br> Air panas
+
+音 ; おと <br> Suara, bunyi
+
+故障 ; こしょう <br> Kerusakan
+
+道 ; みち <br> Jalan
+
+交差点 ; こうさてん <br> Perempatan
+
+信号 ; しんごう <br> Lampu lalu lintas
+
+角 ; かど <br> Sudut
+
+橋 ; はし <br> Jembatan
+
+駐車場 ; ちゅうしゃじょう <br> Tempat parkir
+
+建物 ; たてもの <br> Bangunan, gedung
+
+何回も ; なんかいも <br> Berkali-kali
+
+～目 ; ～め <br> Yang ke -
+
+道路 ; どうろ <br> Jalan
+
+歩道 ; ほどう <br> Trotoar
+
+車道 ; しゃどう <br> Jalan mobil
+
+高速道路 ; こうそくどうろ <br> Jalan tol
+
+通り ; とおり <br> Jalan
+
+横断歩道 ; おうだんほどう <br> Tempat menyeberang, zebra cross
+
+歩道橋 ; ほどうきょう <br> Jembatan penyeberangan
+
+坂 ; さか <br> Lereng
+
+踏切 ; ふみきり <br> Lintasan kereta api
+
+止まれ ; とまれ <br> Berhenti
+
+進入禁止 ; しんにゅうきんし <br> Dilarang masuk
+
+一方通行 ; いっぽうつうこう <br> Satu arah
+
+駐車禁止 ; ちゅうしゃきんし <br> Dilarang parkir
+
+右折禁止 ; うせつきんし <br> Dilarang belok kanan

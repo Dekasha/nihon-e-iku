@@ -1,0 +1,41 @@
+本 ; ほん <br> Buku
+
+辞書 ; じしょ <br> Kamus
+
+雑誌 ; ざっし <br> Majalah
+
+新聞 ; しんぶん <br> Koran
+
+手帳 ; てちょう <br> Buku agenda
+
+名刺 ; めいし <br> Kartu nama
+
+鉛筆 ; えんぴつ <br> Pensil
+
+鍵 ; かぎ <br> Kunci
+
+時計 ; とけい <br> Jam, arloji
+
+傘 ; かさ <br> Payung
+
+鞄 ; かばん <br> Tas
+
+車 ; くるま <br> Mobil
+
+机 ; つくえ <br> Meja
+
+椅子 ; いす <br> Kursi
+
+お土産 ; おみやげ <br> Oleh-oleh
+
+英語 ; えいご <br> Bahasa inggris
+
+日本語 ; にほんご <br> Bahasa jepang
+
+～語 ; ～ご <br> Bahasa ～
+
+何 ; なん <br> Apa
+
+違います ; ちがいます <br> Bukan, tidak, salah
+
+これからお世話になります ; これからおせわになります <br> Mulai sekarang saya akan meminta bantuannya

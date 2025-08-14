@@ -1,0 +1,89 @@
+乗ります ; のります （に） <br> Naik
+
+降ります ; おります （を） <br> Turun
+
+乗り換えます ; のりかえます <br> Ganti, pindah kendaraan
+
+浴びます ; あびます （を） <br> Mandi
+
+入れます ; いれます <br> Memasukkan
+
+出します ; だします <br> Mengeluarkan
+
+下ろします ; おろします （を） <br> Mengeluarkan/mengambil uang
+
+入ります ; はいります <br> Masuk
+
+出ます ; でます <br> Keluar
+
+押します ; おします <br> Menekan
+
+飲みます ; のみます <br> Minum
+
+始めます ; はじめます <br> Mulai
+
+見学します ; けんがくします <br> Mengunjungi
+
+電話します ; でんわします <br> Menelepon
+
+若い ; わかい <br> Muda
+
+長い ; ながい <br> Panjang
+
+短い ; みじかい <br> Pendek
+
+明るい ; あかるい <br> Terang
+
+暗い ; くらい <br> Gelap
+
+体 ; からだ <br> Badan
+
+頭 ; あたま <br> Kepala
+
+髪 ; かみ <br> Rambut
+
+顔 ; かお <br> Wajah
+
+目 ; め <br> Mata
+
+耳 ; みみ <br> Telinga
+
+鼻 ; はな <br> Hidung
+
+口 ; くち <br> Mulut
+
+歯 ; は <br> Gigi
+
+足 ; あし <br> Kaki
+
+背 ; せ <br> Punggung
+
+緑 ; みどり <br> Hijau
+
+お寺 ; おてら <br> Kuil
+
+神社 ; じんじゃ <br> Wihara
+
+～番 ; ～ばん <br> Nomer
+
+お引き出し ; おひきだし <br> Penarikan uang
+
+次に ; つぎに <br> Kemudian, berikutnya
+
+暗証番号 ; あんしょうばんごう <br> PIN
+
+金額 ; きんがく <br> Jumlah uang
+
+確認 ; かくにん <br> Memastikan
+
+雪祭り ; ゆきまつり <br> Pesta salju
+
+お預入れ ; おあずけいれ <br> Menambahkan saldo
+
+お振込み ; おふりこみ <br> Pembayaran
+
+お振り替え ; おふりかえ <br> Pengiriman
+
+通帳記入 ; つうちょうきにゅう <br> Pembaharuan buku catatan bank
+
+残高照会 ; ざんだかしょうかい <br> Cek saldo

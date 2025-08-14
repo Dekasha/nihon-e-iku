@@ -1,0 +1,77 @@
+男の人 ; おとこのひと <br> Orang laki-laki
+
+女の人 ; おんなのひと <br> Orang perempuan
+
+男の子 ; おとこのこ <br> Anak laki-laki
+
+女の子 ; おんなのこ <br> Anak perempuan
+
+犬 ; いぬ <br> Anjing
+
+猫 ; ねこ <br> Kucing
+
+像 ; ぞう <br> Gajah
+
+木 ; き <br> Pohon
+
+物 ; もの <br> Barang
+
+電池 ; でんち <br> Baterai
+
+箱 ; はこ <br> Kotak
+
+冷蔵庫 ; れいぞうこ <br> Kulkas
+
+棚 ; たな <br> Lemari
+
+窓 ; まど <br> Jendela
+
+公園 ; こうえん <br> Taman
+
+喫茶店 ; きっさてん <br> Coffe shop / cafe
+
+～屋 ; ～や <br> Toko ~
+
+乗り場 ; のりば <br> Tempat naik
+
+県 ; けん <br> Prefektur
+
+上 ; うえ <br> Atas
+
+下 ; した <br> Bawah
+
+前 ; まえ <br> Depan
+
+後ろ ; うしろ <br> Belakang
+
+右 ; みぎ <br> Kanan
+
+左 ; ひだり <br> Kiri
+
+中 ; なか <br> Dalam
+
+外 ; そと <br> Luar
+
+隣 ; となり <br> Samping / sebelah
+
+近く ; ちかく <br> Dekat
+
+間 ; あいだ <br> Antara
+
+一番下 ; いちばんした <br> Paling bawah
+
+玄関 ; げんかん <br> Pintu masuk
+
+風呂場 ; ふろば <br> Kamar mandi
+
+洗面所 ; せんめんじょ <br> Tempat cuci tangan
+
+台所 ; だいどころ <br> Dapur
+
+食堂 ; しょくどう <br> Kantin / ruang makan
+
+居間 ; いま <br> Ruang tamu
+
+寝室 ; しんしつ <br> Kamar tidur
+
+廊下 ; ろうか <br> Koridor

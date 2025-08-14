@@ -1,0 +1,59 @@
+休みます ; やすみます （を） <br> Tidak masuk kerja / libur
+
+～人 ; ～にん <br> ~ orang
+
+～台 ; ～だい <br> ~ unit
+
+～枚 ; ～まい <br> ~ lembar
+
+～回 ; ～かい <br> ~ kali
+
+切手 ; きって <br> Perangko
+
+封筒 ; ふうとう <br> Amplop
+
+外国 ; がいこく <br> Luar negeri
+
+留学生 ; りゅうがくせい <br> Pelajar asing
+
+～時間 ; ～じかん <br> ~ jam
+
+～週間 ; ～しゅうかん <br> ~ minggu
+
+～か月 ; ～かげつ <br> ~ bulan
+
+～年 ; ～ねん <br> ~ tahun
+
+全部で ; ぜんぶで <br> Semuanya
+
+いい天気ですね ; いいてんきですね <br> Cuacanya bagus ya...
+
+お出かけですか ; おでかけですか <br> Mau keluar?
+
+行ってらっしゃい ; いってらっしゃい <br> Hati-hati (berangkatnya)
+
+行ってきます ; いってきます <br> Saya berangkat
+
+船便 ; ふなびん <br> Pos laut
+
+航空便 ; こうくうびん <br> Pos udara
+
+定食 ; ていしょく <br> Makanan paket
+
+天どん ; てんどん <br> Semangkuk nasi dan tempura
+
+牛どん ; ぎゅうどん <br> Semangkuk nasi dan daging sapi
+
+焼肉 ; やきにく <br> Daging panggang
+
+野菜ため ; やさいため <br> Sayur goreng
+
+漬物 ; つけもの <br> Asinan
+
+みそ汁 ; みそしる <br> Sup miso
+
+焼きそば ; やきそば <br> Mie goreng jepang
+
+お好み焼き ; おこのみやき <br> Gorengan dicampur daging di loyang
+
+紅茶 ; こうちゃ <br> Teh

@@ -1,0 +1,109 @@
+消します ; けします <br> Mematikan, memadamkan
+
+開けます ; あけます <br> Membuka
+
+閉めます ; しめます <br> Menutup
+
+急ぎます ; いそぎます <br> Buru-buru
+
+待ちます ; まちます <br> Menunggu
+
+持ちます ; もちます <br> Membawa
+
+取ります ; とります <br> Mengambil
+
+手伝います ; てつだいます <br> Membantu
+
+びます ; びます <br> Memanggil
+
+話します ; はなします <br> Berbicara
+
+使います ; つかいます <br> Memakai
+
+止めます ; とめます <br> Menghentikan
+
+見せます ; みせます <br> Memperlihatkan
+
+教えます ; おしえます <br> Memberitahu
+
+座ります ; すわります <br> Duduk
+
+立ちます ; たちます <br> Berdiri
+
+入ります ; はいります <br> Masuk
+
+出ます ; でます <br> Keluar
+
+降ります ; ふります <br> Turun hujan
+
+電気 ; でんき <br> Listrik, lampu
+
+名前 ; なまえ <br> Nama
+
+住所 ; じゅうしょ <br> Alamat
+
+地図 ; ちず <br> Peta
+
+塩 ; しお <br> Garam
+
+砂糖 ; さとう <br> Gula
+
+問題 ; もんだい <br> Masalah, soal
+
+答え ; こたえ <br> Jawaban
+
+読み方 ; よみかた <br> Cara membaca
+
+～方 ; ～かた <br> Cara~
+
+もう少し ; もうすこし <br> Sedikit lagi
+
+これでお願いします ; これでおねがいします <br> Minta dengan ini
+
+お釣り ; おつり <br> Kembalian
+
+切符売り場 ; きっぷうりば <br> Loket penjualan karcis
+
+自動券売機 ; じどうけんばいき <br> Mesin karcis otomatis
+
+精算機 ; せいさんき <br> Alat penghitung otomatis
+
+改札口 ; かいさつぐち <br> Pintu pemeriksaan karcis
+
+出口 ; でぐち <br> Pintu keluar
+
+入口 ; いりぐち <br> Pintu masuk
+
+東口 ; ひがしぐち <br> Pintu timur
+
+西口 ; にしぐち <br> Pintu barat
+
+南口 ; みなみぐち <br> Pintu selatan
+
+北口 ; きたぐち <br> Pintu utara
+
+中央口 ; ちゅうおうぐち <br> Pintu tengah
+
+売店 ; ばいてん <br> Kios, kedai
+
+バス停 ; バスてい <br> Halte bis
+
+快速 ; かいそく <br> Kereta cepat yang lewat pinggir kota
+
+準急 ; じゅんきゅう <br> Kereta semi cepat
+
+時刻表 ; じこくひょう <br> Jadwal keberangkatan bis, kereta dll
+
+～発 ; ～はつ <br> Berangkat dari / berangkat pukul
+
+～着 ; ～ちゃく <br> Berangkat ke / tiba pukul
+
+東京行き ; とうきょういき <br> Tujuan Tokyo
+
+定期券 ; ていきけん <br> Kartu langganan berjangka
+
+回数券 ; かいすうけん <br> Karcis kupon
+
+片道 ; かたみち <br> Sekali jalan
+
+往復 ; おうふく <br> Pulang pergi

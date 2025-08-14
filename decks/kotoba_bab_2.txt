@@ -1,0 +1,89 @@
+これ ; Ini
+
+それ ; Itu (dekat)
+
+あれ ; Itu (jauh)
+
+この～ ; ～ini
+
+その～ ; ～itu (dekat)
+
+あの～ ; ～itu (jauh)
+
+ほん <br> 本 ; Buku
+
+じしょ <br> 辞書 ; Kamus
+
+ざっし <br> 雑誌 ; Majalah
+
+しんぶん <br> 新聞 ; Koran
+
+ノート ; Buku catatan
+
+てちょう <br> 手帳 ; Buku agenda
+
+めいし <br> 名刺 ; Kartu nama
+
+カード ; Kartu
+
+えんぴつ <br> 鉛筆 ; Pensil
+
+ボールペン ; Bolpoin
+
+シャープペンシル ; Pensil mekanik
+
+かぎ <br> 鍵 ; Kunci
+
+とけい <br> 時計 ; Jam, arloji
+
+かさ <br> 傘 ; Payung
+
+かばん <br> 鞄 ; Tas
+
+テレビ ; Televisi
+
+ラジオ ; Radio
+
+カメラ ; Kamera
+
+コンピューター ; Komputer
+
+くるま <br> 車 ; Mobil
+
+つくえ <br> 机 ; Meja
+
+いす <br> 椅子 ; Kursi
+
+チョコレート ; Coklat
+
+コーヒー ; Kopi
+
+おみやげ <br> お土産 ; Oleh-oleh
+
+えいご <br> 英語 ; Bahasa inggris
+
+にほんご <br> 日本語 ; Bahasa jepang
+
+～ご <br> ～語 ; Bahasa ～
+
+なん <br> 何 ; Apa
+
+そう ; Begitu
+
+あのう ; Eee... (ungkapan ketika ragu)
+
+えっ ; Eh (diucapkan ketika mendengar sesuatu di luar dugaan)
+
+どうぞ ; Silakan
+
+どうもありがとうございます ; Terima kasih
+
+そうですか ; O, begitu, benarkah?
+
+ちがいます <br> 違います ; Bukan, tidak, salah
+
+あ ; O, eh (dipakai ketika sadar)
+
+これからおせわになります <br> これからお世話になります ; Mulai sekarang saya akan meminta bantuannya
+
+こちらこそよろしくおねがいします ; Ya sama-sama
