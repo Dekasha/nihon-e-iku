@@ -1,0 +1,119 @@
+みます <br> 見ます。診ます ; Melihat, memeriksa
+
+さがします <br> 探します ; Mencari
+
+おくれます （に） <br> 遅れます ; Terlambat
+
+まにあいます （に） <br> 間に合います ; Tepat waktu
+
+やります ; Melakukan
+
+ひろいます <br> 拾います ; Memungut, mengambil
+
+れんらくします <br> 連絡します ; Menghubungi
+
+きぶんがいい <br> 気分がいい ; Rasa enak, segar
+
+きぶんがわるい <br> 気分が悪い ; Rasa tidak enak
+
+うんどうかい <br> 運動会 ; Lomba olahraga
+
+ぼんおどり <br> 盆踊り ; Tarian Bon
+
+フリーマーケット ; Pasar rombengan
+
+ばしょ <br> 場所 ; Tempat
+
+ボランティア ; Sukarelawan
+
+さいふ <br> 財布 ; Dompet
+
+ごみ ; Sampah
+
+こっかいぎじどう <br> 国会議事堂 ; Gedung Parlemen
+
+へいじつ <br> 平日 ; Hari kerja
+
+～べん <br> ～弁 ; Dialek~
+
+こんど <br> 今度 ; Kali ini, lain kali
+
+ずいぶん ; Sangat, amat
+
+ちょくせつ <br> 直接 ; Langsung
+
+いつでも ; Kapan saja
+
+どこでも ; Di mana-mana
+
+だれでも ; Siapa saja
+
+なんでも <br> 何でも ; Apa saja
+
+こんな～ ; Begini
+
+そんな～ ; Begitu (dekat dari lawan bicara)
+
+あんな～ ; Begitu (jauh dari pembicara dan lawan bicara)
+
+かたづきます <br> 片づきます ; Dibereskan [barang]
+
+だします <br> 出します ; Membuang [sampah], mengeluarkan
+
+もえるごみ <br> 燃えるごみ ; Sampah organik
+
+おきば <br> 置き場 ; Tempat meletakkan sampah
+
+よこ <br> 横 ; Sebelah, samping
+
+びん <br> 瓶 ; Botol
+
+かん <br> 缶 ; Kaleng
+
+ガス ; Gas
+
+～かいしゃ <br> ～会社 ; Perusahaan ~
+
+うちゅう <br> 宇宙 ; Angkasa
+
+～さま <br> ～様 ; Kepada Yth. ~, Bapak ~, Ibu ~, Sdr. ~ (Kata Hormat dari ~さん)
+
+うちゅうせん <br> 宇宙船 ; Wahana antariksa
+
+こわい <br> 怖い ; Takut
+
+うちゅうステーション <br> 宇宙ステーション ; Stasiun luar angkasa
+
+ちがいます <br> 違います ; Tidak benar
+
+うちゅうひこうし <br> 宇宙飛行士 ; Astronot
+
+ごみのだしかた <br> ごみの出し方 ; Cara Membuang Sampah
+
+ごみしゅうしゅうびのおしらせ <br> ごみ収集日のお知らせ ; Pengumuman Hari Pengumpulan Sampah
+
+かねんごみ（もえるごみ） <br> 可燃ごみ（燃えるごみ） ; Sampah Organik
+
+なまごみ、かみくずなど <br> 生ごみ、紙くずなど ; Sampah Dapur/Sampah Basah, Kertas Bekas dan lain-lain
+
+ふねんごみ（もえないごみ） <br> 不燃ごみ（燃えないごみ） ; Sampah Anorganik/Sampah Kering
+
+ガラスせいひん、とうき、きんぞくせいだいどころようひんなど <br> ガラス製品、陶器、金属製台所用品など ; Produk dari Kaca, Keramik, Peralatan Dapur dari Logam dan lain-lain
+
+しげんごみ <br> 資源ごみ ; Sampah Yang Dapat Didaur Ulang
+
+あきかん、びん、ペットボトルなど <br> 空き缶、瓶、ペットボトルなど ; Kaleng, Botol Kaca, Botol Plastik dan lain-lain
+
+そだいごみ <br> 粗大ごみ ; Sampah Ukuran Besar
+
+かぐ、じてんしゃなど <br> 家具、自転車など ; Perabot Rumah Tangga, Sepeda dan lain-lain
+
+しゅうしゅうび <br> 収集日 ; Hari Pengumpulan
+
+げつようび・もくようび <br> 月曜日・木曜日 ; Hari Senin dan Hari Kamis
+
+すいようび <br> 水曜日 ; Hari Rabu
+
+だい2、だい4かようび <br> 第2、第4火曜日 ; Hari Selasa Minggu Kedua dan Keempat
+
+じぜんもうしこみ <br> 事前申し込み ; Pendaftaran Sebelumnya

@@ -1,0 +1,95 @@
+見ます。診ます ; みます <br> Melihat, memeriksa
+
+探します ; さがします <br> Mencari
+
+遅れます ; おくれます （に） <br> Terlambat
+
+間に合います ; まにあいます （に） <br> Tepat waktu
+
+拾います ; ひろいます <br> Memungut, mengambil
+
+連絡します ; れんらくします <br> Menghubungi
+
+気分がいい ; きぶんがいい <br> Rasa enak, segar
+
+気分が悪い ; きぶんがわるい <br> Rasa tidak enak
+
+運動会 ; うんどうかい <br> Lomba olahraga
+
+盆踊り ; ぼんおどり <br> Tarian Bon
+
+場所 ; ばしょ <br> Tempat
+
+財布 ; さいふ <br> Dompet
+
+国会議事堂 ; こっかいぎじどう <br> Gedung Parlemen
+
+平日 ; へいじつ <br> Hari kerja
+
+～弁 ; ～べん <br> Dialek~
+
+今度 ; こんど <br> Kali ini, lain kali
+
+直接 ; ちょくせつ <br> Langsung
+
+何でも ; なんでも <br> Apa saja
+
+片づきます ; かたづきます <br> Dibereskan [barang]
+
+出します ; だします <br> Membuang [sampah], mengeluarkan
+
+燃えるごみ ; もえるごみ <br> Sampah organik
+
+置き場 ; おきば <br> Tempat meletakkan sampah
+
+横 ; よこ <br> Sebelah, samping
+
+瓶 ; びん <br> Botol
+
+缶 ; かん <br> Kaleng
+
+～会社 ; ～かいしゃ <br> Perusahaan ~
+
+宇宙 ; うちゅう <br> Angkasa
+
+～様 ; ～さま <br> Kepada Yth. ~, Bapak ~, Ibu ~, Sdr. ~ (Kata Hormat dari ~さん)
+
+宇宙船 ; うちゅうせん <br> Wahana antariksa
+
+怖い ; こわい <br> Takut
+
+宇宙ステーション ; うちゅうステーション <br> Stasiun luar angkasa
+
+違います ; ちがいます <br> Tidak benar
+
+宇宙飛行士 ; うちゅうひこうし <br> Astronot
+
+ごみの出し方 ; ごみのだしかた <br> Cara Membuang Sampah
+
+ごみ収集日のお知らせ ; ごみしゅうしゅうびのおしらせ <br> Pengumuman Hari Pengumpulan Sampah
+
+可燃ごみ（燃えるごみ） ; かねんごみ（もえるごみ） <br> Sampah Organik
+
+生ごみ、紙くずなど ; なまごみ、かみくずなど <br> Sampah Dapur/Sampah Basah, Kertas Bekas dan lain-lain
+
+不燃ごみ（燃えないごみ） ; ふねんごみ（もえないごみ） <br> Sampah Anorganik/Sampah Kering
+
+ガラス製品、陶器、金属製台所用品など ; ガラスせいひん、とうき、きんぞくせいだいどころようひんなど <br> Produk dari Kaca, Keramik, Peralatan Dapur dari Logam dan lain-lain
+
+資源ごみ ; しげんごみ <br> Sampah Yang Dapat Didaur Ulang
+
+空き缶、瓶、ペットボトルなど ; あきかん、びん、ペットボトルなど <br> Kaleng, Botol Kaca, Botol Plastik dan lain-lain
+
+粗大ごみ ; そだいごみ <br> Sampah Ukuran Besar
+
+家具、自転車など ; かぐ、じてんしゃなど <br> Perabot Rumah Tangga, Sepeda dan lain-lain
+
+収集日 ; しゅうしゅうび <br> Hari Pengumpulan
+
+月曜日・木曜日 ; げつようび・もくようび <br> Hari Senin dan Hari Kamis
+
+水曜日 ; すいようび <br> Hari Rabu
+
+第2、第4火曜日 ; だい２、だい４かようび <br> Hari Selasa Minggu Kedua dan Keempat
+
+事前申し込み ; じぜんもうしこみ <br> Pendaftaran Sebelumnya
